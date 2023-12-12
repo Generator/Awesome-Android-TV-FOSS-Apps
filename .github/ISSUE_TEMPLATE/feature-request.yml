@@ -1,0 +1,61 @@
+name: App Request
+description: Suggest and Android TV App
+title: "[App Request]: "
+labels: ["app-request"]
+
+body:
+  - type: input
+    id: app-name
+    attributes:
+      label: Name of App
+      placeholder: ex. VLC
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source Code of the Appliction
+      placeholder: ex. https://github.com/videolan/vlc-android
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: App Category
+      placeholder: ex. Media Player
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: App Description
+      placeholder: ex. A free and open source multimedia player
+    validations:
+      required: true
+  - type: dropdown
+    id: remote-support
+    attributes:
+      label: Remote Support
+      description: Is the app UI fully accessible with standard remote controls? (D-Pad, Volume Up/Down, etc.)
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: dropdown
+    id: launcher-icon
+    attributes:
+      label: Launcher Icon
+      description: Does the app have a launcher icon?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Information
+      placeholder: ex. Feature X is unaccessible with standard remote controls
+    validations:
+      required: false
