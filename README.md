@@ -48,8 +48,8 @@
 ### YouTube
 
 - **SmartTube:** An advanced (YouTube) player for Android TVs and TV boxes [[Source](https://github.com/yuliskov/smarttube)] [[Website](https://smarttubeapp.github.io/)]
-- **NewPipe:** Lightweight YouTube frontend [[Source](https://github.com/TeamNewPipe/NewPipe)] [[Website](https://newpipe.net/)] 🖱️
-- **NewPipe x SponsorBlock:** A fork of NewPipe with SponsorBlock and Return YouTube Dislike functionality [[Source](https://github.com/gilbsgilbs/NewPipeSponsorBlock)] 🖱️
+- **NewPipe:** Lightweight YouTube frontend [[Source](https://github.com/TeamNewPipe/NewPipe)] [[Website](https://newpipe.net/)]
+- **NewPipe x SponsorBlock:** A fork of NewPipe with SponsorBlock and Return YouTube Dislike functionality [[Source](https://github.com/gilbsgilbs/NewPipeSponsorBlock)]
 
 ### Streaming
 
@@ -59,6 +59,7 @@
 - **DSub:** Connect to your Subsonic server and listen to your music wherever you go [[Source](https://github.com/daneren2005/Subsonic)] 🖱️
 - **Streamflix:** An Android TV app to stream movies and TV shows for free [[Source](https://github.com/stantanasi/streamflix)]
 - **CloudStream:** app for streaming and downloading media [[Source](https://github.com/recloudstream/cloudstream)]
+- **M3U:** Stream media player on Android devices [[Source](https://github.com/realOxy/M3UAndroid)]
 
 ### File Browser
 
@@ -97,8 +98,8 @@
 - **Neo Backup:** open-source tool to backup your apps and data [[Source](https://github.com/NeoApplications/Neo-Backup)] 🤖
 - **App Manager:** A full-featured open source package manager for android [[Source](https://github.com/MuntashirAkon/AppManager)] 🤖🖱️
 - **Termux:** A free and open source cross-platform terminal emulator and IDE [[Source](https://github.com/termux/termux-app)] 🖱️
-- **Key Mapper:** An Android app that change what the buttons do on your devices [[Source](https://github.com/keymapperorg/KeyMapper)] [[Website](http://docs.keymapper.club/)]
-- **Shizuku:** Using system APIs directly with adb/root privileges from normal apps [[Source](https://github.com/RikkaApps/Shizuku)] [[Website](https://shizuku.rikka.app/)]
+- **Key Mapper:** An Android app that change what the buttons do on your devices [[Source](https://github.com/keymapperorg/KeyMapper)] [[Website](http://docs.keymapper.club/)] 🚫
+- **Shizuku:** Using system APIs directly with adb/root privileges from normal apps [[Source](https://github.com/RikkaApps/Shizuku)] [[Website](https://shizuku.rikka.app/)] 🚫
 
 ## Contributing
 
