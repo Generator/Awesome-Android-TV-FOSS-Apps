@@ -8,28 +8,35 @@ body:
     id: app-name
     attributes:
       label: Name of App
-      placeholder: ex. VLC
+      placeholder: ex. VLC (Required)
     validations:
       required: true
   - type: input
     id: source
     attributes:
-      label: Source Code of the Appliction
-      placeholder: ex. https://github.com/videolan/vlc-android
+      label: Source Code of the App
+      placeholder: ex. https://github.com/videolan/vlc-android (Required)
     validations:
       required: true
   - type: input
     id: category
     attributes:
       label: App Category
-      placeholder: ex. Media Player
+      placeholder: ex. Media Player (Required)
     validations:
       required: true
+  - type: input
+    id: website
+    attributes:
+      label: App Website
+      placeholder: ex. https://www.videolan.org/vlc/ (Optional)
+    validations:
+      required: false
   - type: textarea
     id: description
     attributes:
       label: App Description
-      placeholder: ex. A free and open source multimedia player
+      placeholder: ex. A free and open source multimedia player (Required)
     validations:
       required: true
   - type: dropdown
@@ -38,8 +45,8 @@ body:
       label: Remote Support
       description: Is the app UI fully accessible with standard remote controls? (D-Pad, Volume Up/Down, etc.)
       options:
-        - "Yes"
-        - "No"
+        - "Full"
+        - "Partial"
     validations:
       required: true
   - type: dropdown
@@ -56,6 +63,6 @@ body:
     id: additional-info
     attributes:
       label: Additional Information
-      placeholder: ex. Feature X is unaccessible with standard remote controls
+      placeholder: ex. Feature X is unaccessible with standard remote controls (Optional)
     validations:
       required: false
