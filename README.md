@@ -44,12 +44,14 @@
 - **MPV:** A free and open source cross-platform media player and video player [[Source](https://github.com/mpv-player/mpv)] [[Website](https://mpv.io/)]
 - **Nova Player:** Video player for local/network content with subtitle/metadata download support [[Source](https://github.com/nova-video-player/aos-AVP)]
 - **Fermata:** a free, open source audio, video and TV player with a simple and intuitive interface [[Source](https://github.com/AndreyPavlenko/Fermata)]
+- **Just (Video) Player:** Simple video player based on ExoPlayer library [[Source](https://github.com/moneytoo/Player)]
 
 ### YouTube
 
 - **SmartTube:** An advanced (YouTube) player for Android TVs and TV boxes [[Source](https://github.com/yuliskov/smarttube)] [[Website](https://smarttubeapp.github.io/)]
 - **NewPipe:** Lightweight YouTube frontend [[Source](https://github.com/TeamNewPipe/NewPipe)] [[Website](https://newpipe.net/)]
 - **NewPipe x SponsorBlock:** A fork of NewPipe with SponsorBlock and Return YouTube Dislike functionality [[Source](https://github.com/gilbsgilbs/NewPipeSponsorBlock)]
+- **Clipious:** Client for Invidious, the privacy focused YouTube front end [[Source](https://github.com/lamarios/clipious)]
 
 ### Streaming
 
@@ -70,6 +72,7 @@
 ### Download Manager
 
 - **Download Navi:** A free and Open Source download manager [[Source](https://github.com/TachibanaGeneralLaboratories/download-navi)]
+- **BiglyBT:** fully featured open source bittorrent client and remote control [[Source](https://github.com/BiglySoftware/BiglyBT-Android)] [[Website](https://www.biglybt.com/)]
 
 ### Connectivity
 
@@ -95,6 +98,7 @@
 
 ### System Utilities
 
+- **Launch-On-Boot:** Launches a TV app when the device boots [[Source](https://github.com/ITVlab/Launch-On-Boot)]
 - **Neo Backup:** open-source tool to backup your apps and data [[Source](https://github.com/NeoApplications/Neo-Backup)] 🤖
 - **App Manager:** A full-featured open source package manager for android [[Source](https://github.com/MuntashirAkon/AppManager)] 🤖🖱️
 - **Termux:** A free and open source cross-platform terminal emulator and IDE [[Source](https://github.com/termux/termux-app)] 🖱️
@@ -110,3 +114,10 @@
 - [albertomosconi/foss-apps](https://github.com/albertomosconi/foss-apps)
 - [offa/android-foss](https://github.com/offa/android-foss)
 - [LinuxCafeFederation/awesome-android](https://github.com/LinuxCafeFederation/awesome-android)
+
+## License
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0).
+
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
