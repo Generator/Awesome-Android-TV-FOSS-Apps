@@ -107,7 +107,7 @@
 
 ## Contributing
 
-- [Submit a App Request](https://github.com/awesome-android-tv-foss-apps/.github/issues/new)
+- [Submit a App](https://github.com/awesome-android-tv-foss-apps/.github/issues/new)
 
 ## More Awesome Lists
 
