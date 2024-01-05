@@ -59,6 +59,7 @@
 - **S0undTV:** An alternative app to watch the Twitch streaming service for Android TV devices [[Source](https://github.com/S0und/S0undTV)]
 - **SmartTwitchTV:** A Twitch web client that works on Android TVs [[Source](https://github.com/fgl27/SmartTwitchTV)]
 - **DSub:** Connect to your Subsonic server and listen to your music wherever you go [[Source](https://github.com/daneren2005/Subsonic)] 🖱️
+- **Stremio:** A video streaming application, that allows you to watch and organize video content from different services [[Source](https://github.com/Stremio)] [[Website](https://www.stremio.com/)]
 - **Streamflix:** An Android TV app to stream movies and TV shows for free [[Source](https://github.com/stantanasi/streamflix)]
 - **CloudStream:** app for streaming and downloading media [[Source](https://github.com/recloudstream/cloudstream)]
 - **M3U:** Stream media player on Android devices [[Source](https://github.com/realOxy/M3UAndroid)]
