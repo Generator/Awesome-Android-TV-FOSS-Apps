@@ -48,7 +48,7 @@
 
 ### Media Player
 
-- **Kodi:** An award-winning free and open source software media player and entertainment hub for digital media [[Source](https://github.com/xbmc/xbmc)] [[Website](https://kodi.tv/)] [[Google Play](https://play.google.com/store/apps/details?id=org.xbmc.kodi)]
+- **Kodi:** An award-winning free and open source software media player and entertainment hub for digital media [[Source](https://github.com/xbmc/xbmc)] [[Website](https://kodi.tv/)] [[F-Droid](https://f-droid.org/en/packages/org.xbmc.kodi/)] [[Google Play](https://play.google.com/store/apps/details?id=org.xbmc.kodi)]
 - **VLC:** A free and open source cross-platform multimedia player [[Source](https://github.com/videolan/vlc-android)] [[Website](https://www.videolan.org)] [[F-Droid](https://f-droid.org/en/packages/org.videolan.vlc/)] [[Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc)]
 - **MPV:** A free and open source cross-platform media player and video player [[Source](https://github.com/mpv-android/mpv-android)] [[Website](https://mpv.io/)] [[F-Droid](https://f-droid.org/packages/is.xyz.mpv)] [[Google Play](https://play.google.com/store/apps/details?id=is.xyz.mpv)]
 - **Nova Player:** Video player for local/network content with subtitle/metadata download support [[Source](https://github.com/nova-video-player/aos-AVP)] [[F-Droid](https://f-droid.org/packages/org.courville.nova)] [[Google Play](https://play.google.com/store/apps/details?id=org.courville.nova)]
