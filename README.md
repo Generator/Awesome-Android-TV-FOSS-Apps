@@ -59,6 +59,7 @@
 
 - **SmartTube:** An advanced (YouTube) player for Android TVs and TV boxes [[Source](https://github.com/yuliskov/smarttube)] [[Website](https://smarttubeapp.github.io/)]
 - **NewPipe:** Lightweight YouTube frontend [[Source](https://github.com/TeamNewPipe/NewPipe)] [[Website](https://newpipe.net/)] [[F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)]
+- **NewPipe x SponsorBlock:** A fork of NewPipe with SponsorBlock and Return YouTube Dislike functionality [[Source](https://github.com/javulticat/NewPipe)]
 - **Clipious:** Client for Invidious, the privacy focused YouTube front end [[Source](https://github.com/lamarios/clipious)] [[F-Droid](https://f-droid.org/packages/com.github.lamarios.clipious/)]
 
 ### Streaming
