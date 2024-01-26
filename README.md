@@ -82,7 +82,8 @@
 ### Download Manager
 
 - **Download Navi:** A free and Open Source download manager [[Source](https://github.com/TachibanaGeneralLaboratories/download-navi)] [[F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/)] [[Google play](https://play.google.com/store/apps/details?id=com.tachibana.downloader)]
-- **BiglyBT:** fully featured open source bittorrent client and remote control [[Source](https://github.com/BiglySoftware/BiglyBT-Android)] [[Website](https://www.biglybt.com/)] [[F-Droid](https://f-droid.org/packages/com.biglybt.android.client/)]
+- **BiglyBT:** Fully featured open source bittorrent client and remote control [[Source](https://github.com/BiglySoftware/BiglyBT-Android)] [[Website](https://www.biglybt.com/)] [[F-Droid](https://f-droid.org/packages/com.biglybt.android.client/)]
+- **TorrServe:** Application for downloading torrents as HTTP files. Torrent connection is done localy. [[Source](https://github.com/YouROK/TorrServe)] [[F-Droid](https://f-droid.org/packages/ru.yourok.torrserve/)]
 
 ### Connectivity
 
