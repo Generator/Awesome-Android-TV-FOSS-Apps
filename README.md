@@ -16,8 +16,11 @@
   - [App Store](#app-store)
   - [Web Browser](#web-browser)
   - [Media Player](#media-player)
-  - [YouTube](#youtube)
-  - [Streaming](#streaming)
+  - [Streaming - YouTube](#streaming---youtube)
+  - [Streaming - Movies/TV/Anime](#streaming---moviestvanime)
+  - [Streaming - Self-hosted](#streaming---self-hosted)
+  - [Streaming - Twitch](#streaming---twitch)
+  - [Streaming - Other](#streaming---other)
   - [File Browser](#file-browser)
   - [Download Manager](#download-manager)
   - [Connectivity](#connectivity)
@@ -55,22 +58,31 @@
 - **Fermata:** a free, open source audio, video and TV player with a simple and intuitive interface [[Source](https://github.com/AndreyPavlenko/Fermata)] [[Google Play](https://play.google.com/store/apps/details?id=me.aap.fermata)]
 - **Just (Video) Player:** Simple video player based on ExoPlayer library [[Source](https://github.com/moneytoo/Player)] [[F-Droid](https://f-droid.org/packages/com.brouken.player/)] [[Google Play](https://play.google.com/store/apps/details?id=com.brouken.player)]
 
-### YouTube
+### Streaming - YouTube
 
 - **SmartTube:** An advanced (YouTube) player for Android TVs and TV boxes [[Source](https://github.com/yuliskov/smarttube)] [[Website](https://smarttubeapp.github.io/)]
 - **NewPipe:** Lightweight YouTube frontend [[Source](https://github.com/TeamNewPipe/NewPipe)] [[Website](https://newpipe.net/)] [[F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)]
-- **NewPipe x SponsorBlock:** A fork of NewPipe with SponsorBlock and Return YouTube Dislike functionality [[Source](https://github.com/javulticat/NewPipe)]
+- **Tubular:** A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike [[Source](https://github.com/polymorphicshade/Tubular)]
 - **Clipious:** Client for Invidious, the privacy focused YouTube front end [[Source](https://github.com/lamarios/clipious)] [[F-Droid](https://f-droid.org/packages/com.github.lamarios.clipious/)]
 
-### Streaming
+### Streaming - Movies/TV/Anime
 
-- **Jellyfin:** A Free Software Media System that puts you in control of managing and streaming your media [[Source](https://github.com/jellyfin/jellyfin-androidtv)] [[Website](https://jellyfin.org/)] [[F-Droid](https://f-droid.org/en/packages/org.jellyfin.androidtv/)] [[Google Play](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv)]
-- **S0undTV:** An alternative app to watch the Twitch streaming service for Android TV devices [[Source](https://github.com/S0und/S0undTV)] [[Google Play](https://play.google.com/store/apps/details?id=com.s0und.s0undtv)]
-- **SmartTwitchTV:** A Twitch web client that works on Android TVs [[Source](https://github.com/fgl27/SmartTwitchTV)] [[Google Play](https://play.google.com/store/apps/details?id=com.fgl27.twitch)]
-- **DSub:** Connect to your Subsonic server and listen to your music wherever you go [[Source](https://github.com/daneren2005/Subsonic)] [[F-Droid](https://f-droid.org/en/packages/github.daneren2005.dsub)] [[Google Play](https://play.google.com/store/apps/details?id=github.daneren2005.dsub)] 🖱️
 - **Stremio:** A video streaming application, that allows you to watch and organize video content from different services [[Source](https://github.com/Stremio)] [[Website](https://www.stremio.com/)] [[Google Play](https://play.google.com/store/apps/details?id=com.stremio.one)]
 - **Streamflix:** An Android TV app to stream movies and TV shows for free [[Source](https://github.com/stantanasi/streamflix)]
-- **CloudStream:** app for streaming and downloading media [[Source](https://github.com/recloudstream/cloudstream)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3)]
+- **CloudStream:** App for streaming and downloading media [[Source](https://github.com/recloudstream/cloudstream)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3)]
+- **AnimeTV:** Android TV application for watching your favorite anime series and movies [[Source](https://github.com/amarullz/AnimeTV)]
+
+### Streaming - Self-hosted
+
+- **Jellyfin:** A Free Software Media System that puts you in control of managing and streaming your media [[Source](https://github.com/jellyfin/jellyfin-androidtv)] [[Website](https://jellyfin.org/)] [[F-Droid](https://f-droid.org/en/packages/org.jellyfin.androidtv/)] [[Google Play](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv)]
+- **DSub:** Connect to your Subsonic server and listen to your music wherever you go [[Source](https://github.com/daneren2005/Subsonic)] [[F-Droid](https://f-droid.org/en/packages/github.daneren2005.dsub)] [[Google Play](https://play.google.com/store/apps/details?id=github.daneren2005.dsub)] 🖱️
+
+### Streaming - Twitch
+
+- **S0undTV:** An alternative app to watch the Twitch streaming service for Android TV devices [[Source](https://github.com/S0und/S0undTV)] [[Google Play](https://play.google.com/store/apps/details?id=com.s0und.s0undtv)]
+- **SmartTwitchTV:** A Twitch web client that works on Android TVs [[Source](https://github.com/fgl27/SmartTwitchTV)] [[Google Play](https://play.google.com/store/apps/details?id=com.fgl27.twitch)]
+
+### Streaming - Other
 - **M3U:** Stream media player on Android devices [[Source](https://github.com/realOxy/M3UAndroid)] [[F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3)]
 
 ### File Browser
