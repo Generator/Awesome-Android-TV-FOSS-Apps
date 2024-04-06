@@ -129,6 +129,7 @@
 - **Termux:** A free and open source cross-platform terminal emulator and IDE [[Source](https://github.com/termux/termux-app)] [[F-Droid](https://f-droid.org/en/packages/com.termux)] 🖱️
 - **Key Mapper:** An Android app that change what the buttons do on your devices [[Source](https://github.com/keymapperorg/KeyMapper)] [[Website](http://docs.keymapper.club/)] [[F-Droid](https://f-droid.org/packages/io.github.sds100.keymapper/)] [[Google Play](https://play.google.com/store/apps/details?id=io.github.sds100.keymapper)] 🚫
 - **Shizuku:** Using system APIs directly with adb/root privileges from normal apps [[Source](https://github.com/RikkaApps/Shizuku)] [[Website](https://shizuku.rikka.app/)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.shizuku.privileged.api)] [[Google Play](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)] 🚫
+- **MATVT:** Virtual Mouse for Android TV that can be controlled via remote itself. [[Source](https://github.com/virresh/matvt)]
 
 ## Contributing
 
