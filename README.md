@@ -13,6 +13,7 @@
 - [Table of Contents](#table-of-contents)
 - [Apps](#apps)
   - [Launcher](#launcher)
+  - [Keyboard](#keyboard)
   - [App Store](#app-store)
   - [Web Browser](#web-browser)
   - [Media Player](#media-player)
@@ -25,9 +26,10 @@
   - [Download Manager](#download-manager)
   - [Connectivity](#connectivity)
   - [Gallery](#gallery)
-  - [Notfications](#notfications)
+  - [Notifications](#notifications)
   - [Screen Saver](#screen-saver)
   - [DNS Proxy](#dns-proxy)
+  - [Capturing](#capturing)
   - [System Utilities](#system-utilities)
 - [Contributing](#contributing)
 - [More Awesome Lists](#more-awesome-lists)
@@ -38,6 +40,10 @@
 ### Launcher
 
 - **FLauncher:** Alternative launcher for Android TV [[Source](https://gitlab.com/flauncher/flauncher)] [[Google Play](https://play.google.com/store/apps/details?id=me.efesser.flauncher)]
+
+### Keyboard
+
+- **LeanKeyKeyboard:** Keyboard for Android-based set-top boxes and TV [[Source](https://github.com/yuliskov/LeanKeyKeyboard)] [[Google Play](https://play.google.com/store/apps/details?id=org.liskovsoft.androidtv.rukeyboard)]
 
 ### App Store
 
@@ -109,7 +115,7 @@
 
 - **Aves:** Gallery and metadata explorer [[Source](https://github.com/deckerst/aves)] [[F-Droid](https://f-droid.org/packages/deckers.thibault.aves.libre)] [[Google Play](https://play.google.com/store/apps/details?id=deckers.thibault.aves)]
 
-### Notfications
+### Notifications
 
 - **Heads-up:** Get the new heads-up notifications [[Source](https://github.com/SimenCodes/heads-up)] [[Google Play](https://play.google.com/store/apps/details?id=codes.simen.l50notifications)] 🚫
 
@@ -120,6 +126,10 @@
 ### DNS Proxy
 
 - **InviZible Pro:** Comprehensive application for on-line privacy and security [[Source](https://github.com/Gedsh/InviZible)] [[Website](https://invizible.net)] [[F-Droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/)] [[Google Play](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/)]
+
+### Capturing
+
+- **Recording Webcam:** Camera App for android TV [[Source](https://github.com/ChunhThanhDe/Recording-Webcam)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.box.project.recording_app)]
 
 ### System Utilities
 
