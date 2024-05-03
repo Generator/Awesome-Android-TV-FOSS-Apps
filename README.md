@@ -112,6 +112,7 @@
 - **LinkLoom:** A Android TV Application To Show Browsers, History, Save Web Pages Links, Share Links Between Android Mobile app and TV [[Source](https://github.com/Yazan98/LinkLoomTv)]
 - **KDE Connect:** A multi-platform app that allows your devices to communicate with each other [[Source](https://invent.kde.org/network/kdeconnect-android)] [[Website](https://community.kde.org/KDEConnect)] [[F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp)] [[Google Play](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp)] 🚫📺
 - **LocalSend:** Allows you to securely share files and messages with nearby devices over your local network without needing an internet connection [[Source](https://github.com/localsend/localsend)] [[F-Droid](https://f-droid.org/packages/org.localsend.localsend_app)] [[Google Play](https://play.google.com/store/apps/details?id=org.localsend.localsend_app)]
+- **Tailscale:** Mesh VPN based on WireGuard [[Source](https://github.com/tailscale/tailscale-android)] [[F-Droid](https://f-droid.org/en/packages/com.tailscale.ipn/)] [[Google Play](https://play.google.com/store/apps/details?id=com.tailscale.ipn)] [[Website](https://tailscale.com/)]
 
 ### Gallery
 
