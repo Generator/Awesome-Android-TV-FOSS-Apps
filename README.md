@@ -113,7 +113,6 @@
 - **LinkLoom:** A Android TV Application To Show Browsers, History, Save Web Pages Links, Share Links Between Android Mobile app and TV [[Source](https://github.com/Yazan98/LinkLoomTv)]
 - **KDE Connect:** A multi-platform app that allows your devices to communicate with each other [[Source](https://invent.kde.org/network/kdeconnect-android)] [[Website](https://community.kde.org/KDEConnect)] [[F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp)] [[Google Play](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp)] 🚫📺
 - **LocalSend:** Allows you to securely share files and messages with nearby devices over your local network without needing an internet connection [[Source](https://github.com/localsend/localsend)] [[F-Droid](https://f-droid.org/packages/org.localsend.localsend_app)] [[Google Play](https://play.google.com/store/apps/details?id=org.localsend.localsend_app)]
-- **Tailscale:** Mesh VPN based on WireGuard [[Source](https://github.com/tailscale/tailscale-android)] [[F-Droid](https://f-droid.org/en/packages/com.tailscale.ipn/)] [[Google Play](https://play.google.com/store/apps/details?id=com.tailscale.ipn)] [[Website](https://tailscale.com/)]
 - **BT Remote:** An Android app that turns your smartphone into a Bluetooth remote for Android TV. [[Source](https://gitlab.com/Atharok/BtRemote)] [[F-Droid](https://f-droid.org/packages/com.atharok.btremote/)] [[Google Play](https://play.google.com/store/apps/details?id=com.atharok.btremote.gplay)]
 
 ### Gallery
@@ -132,6 +131,11 @@
 
 - **InviZible Pro:** Comprehensive application for on-line privacy and security [[Source](https://github.com/Gedsh/InviZible)] [[Website](https://invizible.net)] [[F-Droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/)] [[Google Play](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/)]
 - **Intra:** An experimental tool that allows you to test new DNS-over-HTTPS services on Android [[Source](https://github.com/Jigsaw-Code/Intra)] [[F-Droid](https://f-droid.org/en/packages/app.intra/)] [[Google Play](https://play.google.com/store/apps/details?id=app.intra)] 📺🖱️
+
+### VPN
+
+- **Tailscale:** Mesh VPN based on WireGuard [[Source](https://github.com/tailscale/tailscale-android)] [[F-Droid](https://f-droid.org/en/packages/com.tailscale.ipn/)] [[Google Play](https://play.google.com/store/apps/details?id=com.tailscale.ipn)] [[Website](https://tailscale.com/)]
+- **Shadowsocks:** A shadowsocks client for Android TV. Shadowsocks is a fast tunnel proxy that helps you bypass firewalls. [[Source](https://github.com/shadowsocks/shadowsocks-android)] [[Website](https://shadowsocks.org/)] [[F-Droid](https://f-droid.org/en/packages/com.github.shadowsocks.tv/)] [[Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks.tv)]
 
 ### Capturing
 
