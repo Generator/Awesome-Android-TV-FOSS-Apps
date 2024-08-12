@@ -135,8 +135,9 @@
 ### VPN
 
 - **Proton VPN:** Free Swiss VPN with advanced security and privacy features. [[Source](https://github.com/ProtonVPN/android-app)] [[Website](https://protonvpn.com/)] [[F-Droid](https://f-droid.org/en/packages/ch.protonvpn.android/)] [[Google Play](https://play.google.com/store/apps/details?id=ch.protonvpn.android)]
-- **Tailscale:** Mesh VPN based on WireGuard [[Source](https://github.com/tailscale/tailscale-android)] [[F-Droid](https://f-droid.org/en/packages/com.tailscale.ipn/)] [[Google Play](https://play.google.com/store/apps/details?id=com.tailscale.ipn)] [[Website](https://tailscale.com/)]
+- **Windscribe:** Free VPN that unblocks geo-restricted content and eliminates tracking. [[Source](https://github.com/Windscribe/Android-App)] [[Website](https://windscribe.com/)] [[F-Droid](https://f-droid.org/en/packages/com.windscribe.vpn/)] [[Google Play](https://play.google.com/store/apps/details?id=com.windscribe.vpn)]
 - **Shadowsocks:** A shadowsocks client for Android TV. Shadowsocks is a fast tunnel proxy that helps you bypass firewalls. [[Source](https://github.com/shadowsocks/shadowsocks-android)] [[Website](https://shadowsocks.org/)] [[F-Droid](https://f-droid.org/en/packages/com.github.shadowsocks.tv/)] [[Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks.tv)]
+- **Tailscale:** Mesh VPN based on WireGuard [[Source](https://github.com/tailscale/tailscale-android)] [[F-Droid](https://f-droid.org/en/packages/com.tailscale.ipn/)] [[Google Play](https://play.google.com/store/apps/details?id=com.tailscale.ipn)] [[Website](https://tailscale.com/)]
 
 ### Capturing
 
