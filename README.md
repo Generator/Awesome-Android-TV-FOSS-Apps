@@ -8,6 +8,7 @@
   - 🤖 Requires ROOT
   - 🚫 Incompatible with some devices
   - ⚠️ App includes non-free components
+  - 🛑 Development (possible) stopped
 
 ## Table of Contents
 
@@ -41,6 +42,7 @@
 ### Launcher
 
 - **FLauncher:** Alternative launcher for Android TV [[Source](https://gitlab.com/flauncher/flauncher)] [[Google Play](https://play.google.com/store/apps/details?id=me.efesser.flauncher)]
+- **FLauncher (fork):** Alternative launcher for Android TV [[Source](https://github.com/CocoCR300/flauncher)]
 
 ### Keyboard
 
@@ -101,6 +103,8 @@
 - **Ghost Commander:** Dual-panel file manager [[Source](https://sourceforge.net/p/ghostcommander)] [[Website](https://sites.google.com/site/ghostcommander1)] [[F-Droid](https://f-droid.org/en/packages/com.ghostsq.commander)] [[Google Play](https://play.google.com/store/apps/details?id=com.ghostsq.commander)]
 - **Amaze:** Simple and attractive Material Design file manager for Android [[Source](https://github.com/TeamAmaze/AmazeFileManager)] [[Website](https://teamamaze.xyz/)] [[F-Droid](https://f-droid.org/packages/com.amaze.filemanager/)] [[Google Play](https://play.google.com/store/apps/details?id=com.amaze.filemanager)]
 - **Material Files:** Material Design file manager for Android [[Source](https://github.com/zhanghai/MaterialFiles)] [[F-Droid](https://f-droid.org/packages/me.zhanghai.android.files)] [[Google Play](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)] 📺
+- **OI File Manager:** OI File Manager [[Source](https://github.com/openintents/filemanager)] [[F-Droid](https://f-droid.org/en/packages/org.openintents.filemanager/)] [[Google Play](https://play.google.com/store/apps/details?id=org.openintents.filemanager)]
+- **FireFiles:** FireFiles is based on AnExplorer. It is a light-weight but powerful file manager for everything that runs on Android OS [[Source](https://github.com/gigabytedevelopers/FireFiles/issues)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gigabytedevelopersinc.app.explorer)]] [[Google Play](https://play.google.com/store/apps/details?id=com.gigabytedevelopersinc.app.explorer)] 🛑
 
 ### Download Manager
 
