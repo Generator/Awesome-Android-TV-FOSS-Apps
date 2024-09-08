@@ -43,6 +43,7 @@
 
 - **FLauncher:** Alternative launcher for Android TV [[Source](https://gitlab.com/flauncher/flauncher)] [[Google Play](https://play.google.com/store/apps/details?id=me.efesser.flauncher)]
 - **FLauncher (fork):** Alternative launcher for Android TV [[Source](https://github.com/CocoCR300/flauncher)]
+- **LeanbackLauncher:** Google Leanback Launcher on steroids [[Source](https://github.com/tsynik/LeanbackLauncher)]
 
 ### Keyboard
 
