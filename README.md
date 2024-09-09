@@ -158,6 +158,7 @@
 - **Shizuku:** Using system APIs directly with adb/root privileges from normal apps [[Source](https://github.com/RikkaApps/Shizuku)] [[Website](https://shizuku.rikka.app/)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.shizuku.privileged.api)] [[Google Play](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)] 🚫
 - **MATVT:** Virtual Mouse for Android TV that can be controlled via remote itself. [[Source](https://github.com/virresh/matvt)]
 - **SD Maid SE:** Android's most thorough cleaning tool. [[Source](https://github.com/d4rken-org/sdmaid-se)] [[F-Droid](https://f-droid.org/en/packages/eu.darken.sdmse/)] [[Google Play](https://play.google.com/store/apps/details?id=eu.darken.sdmse)] 📺
+- **APKUpdater:** An open source tool that simplifies the process of finding updates for your installed apps. [[Source](https://github.com/rumboalla/apkupdater)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.apkupdater)]
 
 ## Contributing
 
