@@ -51,7 +51,7 @@
 
 ### App Store
 
-- **Aurora Store:** An alternate to Google's Play Store [[Source](https://gitlab.com/AuroraOSS/AuroraStore)] [[Website](https://auroraoss.com/app_info.php?app_id=2)] [[F-Droid](https://f-droid.org/en/packages/com.aurora.store/)] 🖱️
+- **Aurora Store:** An alternate to Google's Play Store [[Source](https://gitlab.com/AuroraOSS/AuroraStore)] [[Website](https://auroraoss.com/)] [[F-Droid](https://f-droid.org/en/packages/com.aurora.store/)] 🖱️
 - **Neo Store:** The modern and feature-rich F-Droid client for everyone! [[Source](https://github.com/NeoApplications/Neo-Store)] [[F-Droid](https://f-droid.org/packages/com.machiav3lli.fdroid)] 🖱️
 - **Droid-ify:** A quick material F-Droid client [[Source](https://github.com/Droid-ify/client)] [[F-Droid](https://f-droid.org/en/packages/com.looker.droidify/)] 🖱️
 
