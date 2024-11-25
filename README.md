@@ -54,7 +54,7 @@
 - **Aurora Store:** An alternate to Google's Play Store [[Source](https://gitlab.com/AuroraOSS/AuroraStore)] [[Website](https://auroraoss.com/)] [[F-Droid](https://f-droid.org/en/packages/com.aurora.store/)] 🖱️
 - **Neo Store:** The modern and feature-rich F-Droid client for everyone! [[Source](https://github.com/NeoApplications/Neo-Store)] [[F-Droid](https://f-droid.org/packages/com.machiav3lli.fdroid)] 🖱️
 - **Droid-ify:** A quick material F-Droid client [[Source](https://github.com/Droid-ify/client)] [[F-Droid](https://f-droid.org/en/packages/com.looker.droidify/)] 🖱️
-- **F-Droid Classic:** F-Droid client with the classic UI [[Source](https://git.bubu1.eu/Bubu/fdroidclassic)] [[F-Droid](https://f-droid.org/en/packages/eu.bubu1.fdroidclassic/)] 📺 🖱️
+- **F-Droid Classic:** F-Droid client with the classic UI [[Source](https://git.bubu1.eu/Bubu/fdroidclassic)] [[F-Droid](https://f-droid.org/en/packages/eu.bubu1.fdroidclassic/)] 📺 🖱️ 🛑
 
 ### Web Browser
 
@@ -163,6 +163,7 @@
 - **MATVT:** Virtual Mouse for Android TV that can be controlled via remote itself. [[Source](https://github.com/virresh/matvt)]
 - **SD Maid SE:** Android's most thorough cleaning tool. [[Source](https://github.com/d4rken-org/sdmaid-se)] [[F-Droid](https://f-droid.org/en/packages/eu.darken.sdmse/)] [[Google Play](https://play.google.com/store/apps/details?id=eu.darken.sdmse)] 📺
 - **APKUpdater:** An open source tool that simplifies the process of finding updates for your installed apps. [[Source](https://github.com/rumboalla/apkupdater)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.apkupdater)]
+- **Quick Settings:** Quick Settings provides quick access to various Android system settings [[Source](https://f-droid.org/repo/com.bwx.bequick_201107260_src.tar.gz)] [[F-Droid](https://f-droid.org/en/packages/com.bwx.bequick/)] 📺 🛑⚠️
 
 ## Contributing
 
