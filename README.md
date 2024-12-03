@@ -101,6 +101,7 @@
 - **Moonlight:** Play games from your PC on Android [[Source](https://github.com/moonlight-stream/moonlight-android)] [[Website](https://moonlight-stream.org/)] [[F-Droid](https://f-droid.org/packages/com.limelight/)] [[Google Play](https://play.google.com/store/apps/details?id=com.limelight)]
 - **M3U:** Stream media player on Android devices [[Source](https://github.com/realOxy/M3UAndroid)] [[F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3)]
 - **FCast:** An open-source protocol designed to open wireless audio and video streaming to everybody. [[Source](https://gitlab.futo.org/videostreaming/fcast)] [[Website](https://fcast.org/)] [[Google Play](https://play.google.com/store/apps/details?id=com.futo.fcast.receiver.playstore)]
+- **UniTV:** A Flutter-based application that allows users to watch TV channels from any country. [[Source](https://github.com/VinsonGuo/flutter_iptv_client)] [[Google Play](https://play.google.com/store/apps/details?id=com.vinsonguo.flutter_iptv_client)]
 
 ### File Browser
 
