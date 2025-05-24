@@ -165,7 +165,7 @@
 - **SD Maid SE:** Android's most thorough cleaning tool. [[Source](https://github.com/d4rken-org/sdmaid-se)] [[F-Droid](https://f-droid.org/en/packages/eu.darken.sdmse/)] [[Google Play](https://play.google.com/store/apps/details?id=eu.darken.sdmse)] 📺
 - **APKUpdater:** An open source tool that simplifies the process of finding updates for your installed apps. [[Source](https://github.com/rumboalla/apkupdater)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.apkupdater)]
 - **Quick Settings:** Quick Settings provides quick access to various Android system settings [[Source](https://f-droid.org/repo/com.bwx.bequick_201107260_src.tar.gz)] [[F-Droid](https://f-droid.org/en/packages/com.bwx.bequick/)] 📺 🛑⚠️
-- **NetGuard:** A simple way to block access to the internet per application [[Source](https://github.com/M66B/NetGuard)] [[F-Droid](https://f-droid.org/en/packages/eu.faircode.netguard/)] [[Google Play](https://play.google.com/store/apps/details?id=eu.faircode.netguard)] [[Website](https://netguard.me/)]
+- **NetGuard:** A simple way to block access to the internet per application [[Source](https://github.com/M66B/NetGuard)] [[F-Droid](https://f-droid.org/en/packages/eu.faircode.netguard/)] [[Google Play](https://play.google.com/store/apps/details?id=eu.faircode.netguard)] [[Website](https://netguard.me/)] 📺
 
 ## Contributing
 
