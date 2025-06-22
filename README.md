@@ -127,6 +127,7 @@
 ### Gallery
 
 - **Aves:** Gallery and metadata explorer [[Source](https://github.com/deckerst/aves)] [[F-Droid](https://f-droid.org/packages/deckers.thibault.aves.libre)] [[Google Play](https://play.google.com/store/apps/details?id=deckers.thibault.aves)]
+- **Immich Android TV:** An Android TV app for the self hosted photos and videos backup solution [[Source](https://github.com/giejay/Immich-Android-TV)]
 
 ### Notifications
 
