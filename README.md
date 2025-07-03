@@ -8,6 +8,7 @@
   - 🤖 Requires ROOT
   - 🚫 Incompatible with some devices
   - ⚠️ App includes non-free components
+  - 💰 Paid features
   - 🛑 Development (possible) stopped
 
 ## Table of Contents
@@ -167,6 +168,7 @@
 - **NetGuard:** A simple way to block access to the internet per application [[Source](https://github.com/M66B/NetGuard)] [[F-Droid](https://f-droid.org/en/packages/eu.faircode.netguard/)] [[Google Play](https://play.google.com/store/apps/details?id=eu.faircode.netguard)] [[Website](https://netguard.me/)] 📺
 - **CPU Info:** a KMP application which provides information about device hardware and software [[Source](https://github.com/kamgurgul/cpu-info)] [[F-Droid](https://f-droid.org/packages/com.kgurgul.cpuinfo/)] [[Google Play](https://play.google.com/store/apps/details?id=com.kgurgul.cpuinfo)]
 - **DAVx⁵:** A CalDAV/CardDAV (and webdav provider) management and synchronization app for Android which natively integrates with Android calendar/contact apps. [[Source](https://github.com/bitfireAT/davx5-ose/)] [[F-Droid](https://f-droid.org/en/packages/at.bitfire.davdroid/)] [[Google Play](https://play.google.com/store/apps/details?id=at.bitfire.davdroid)] [[Website](https://www.davx5.com/)]
+- **WebDAV Provider:** An Android app that can expose WebDAV through Android's Storage Access Framework (SAF). [[Source](https://github.com/alexbakker/webdav-provider)] [[Google Play](https://play.google.com/store/apps/details?id=dev.rocli.android.webdav)] 💰
 
 ## Contributing
 
