@@ -166,6 +166,7 @@
 - **Quick Settings:** Quick Settings provides quick access to various Android system settings [[Source](https://f-droid.org/repo/com.bwx.bequick_201107260_src.tar.gz)] [[F-Droid](https://f-droid.org/en/packages/com.bwx.bequick/)] 📺 🛑⚠️
 - **NetGuard:** A simple way to block access to the internet per application [[Source](https://github.com/M66B/NetGuard)] [[F-Droid](https://f-droid.org/en/packages/eu.faircode.netguard/)] [[Google Play](https://play.google.com/store/apps/details?id=eu.faircode.netguard)] [[Website](https://netguard.me/)] 📺
 - **CPU Info:** a KMP application which provides information about device hardware and software [[Source](https://github.com/kamgurgul/cpu-info)] [[F-Droid](https://f-droid.org/packages/com.kgurgul.cpuinfo/)] [[Google Play](https://play.google.com/store/apps/details?id=com.kgurgul.cpuinfo)]
+- **DAVx⁵:** A CalDAV/CardDAV (and webdav provider) management and synchronization app for Android which natively integrates with Android calendar/contact apps. [[Source](https://github.com/bitfireAT/davx5-ose/)] [[F-Droid](https://f-droid.org/en/packages/at.bitfire.davdroid/)] [[Google Play](https://play.google.com/store/apps/details?id=at.bitfire.davdroid)] [[Website](https://www.davx5.com/)]
 
 ## Contributing
 
