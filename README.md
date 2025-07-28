@@ -142,6 +142,7 @@
 
 - **InviZible Pro:** Comprehensive application for on-line privacy and security [[Source](https://github.com/Gedsh/InviZible)] [[Website](https://invizible.net)] [[F-Droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/)] [[Google Play](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/)]
 - **Intra:** An experimental tool that allows you to test new DNS-over-HTTPS services on Android [[Source](https://github.com/Jigsaw-Code/Intra)] [[F-Droid](https://f-droid.org/en/packages/app.intra/)] [[Google Play](https://play.google.com/store/apps/details?id=app.intra)] 📺🖱️
+- **DNSNet:** a DNS-based host blocker (and lightweight ad blocker) that creates a VPN locally to apply its rules and block unwanted requests. [[Source](https://github.com/t895/DNSNet)] [[F-Droid](https://f-droid.org/packages/dev.clombardo.dnsnet/)] [[Google Play](https://play.google.com/store/apps/details?id=dev.clombardo.dnsnet)]
 
 ### VPN
 
