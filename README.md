@@ -56,6 +56,7 @@
 - **Neo Store:** The modern and feature-rich F-Droid client for everyone! [[Source](https://github.com/NeoApplications/Neo-Store)] [[F-Droid](https://f-droid.org/packages/com.machiav3lli.fdroid)] 🖱️
 - **Droid-ify:** A quick material F-Droid client [[Source](https://github.com/Droid-ify/client)] [[F-Droid](https://f-droid.org/en/packages/com.looker.droidify/)] 🖱️
 - **F-Droid Classic:** F-Droid client with the classic UI [[Source](https://git.bubu1.eu/Bubu/fdroidclassic)] [[F-Droid](https://f-droid.org/en/packages/eu.bubu1.fdroidclassic/)] 📺 🖱️ 🛑
+- **Flicky:** An FDroid client with a TV friendly UI [[Source](https://github.com/mlm-games/flicky)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/app.flicky)]
 
 ### Web Browser
 
