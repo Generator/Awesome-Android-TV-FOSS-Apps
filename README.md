@@ -56,7 +56,7 @@
 - **Neo Store:** The modern and feature-rich F-Droid client for everyone! [[Source](https://github.com/NeoApplications/Neo-Store)] [[F-Droid](https://f-droid.org/packages/com.machiav3lli.fdroid)] 🖱️
 - **Droid-ify:** A quick material F-Droid client [[Source](https://github.com/Droid-ify/client)] [[F-Droid](https://f-droid.org/en/packages/com.looker.droidify/)] 🖱️
 - **F-Droid Classic:** F-Droid client with the classic UI [[Source](https://git.bubu1.eu/Bubu/fdroidclassic)] [[F-Droid](https://f-droid.org/en/packages/eu.bubu1.fdroidclassic/)] 📺 🖱️ 🛑
-- **Flicky:** An FDroid client with a TV friendly UI [[Source](https://github.com/mlm-games/flicky)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/app.flicky)]
+- **Flicky:** An FDroid client with a TV friendly UI [[Source](https://github.com/mlm-games/flicky)] [[F-Droid](https://f-droid.org/en/packages/app.flicky/)]
 
 ### Web Browser
 
@@ -112,6 +112,7 @@
 - **Material Files:** Material Design file manager for Android [[Source](https://github.com/zhanghai/MaterialFiles)] [[F-Droid](https://f-droid.org/packages/me.zhanghai.android.files)] [[Google Play](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)] 📺
 - **OI File Manager:** OI File Manager [[Source](https://github.com/openintents/filemanager)] [[F-Droid](https://f-droid.org/en/packages/org.openintents.filemanager/)] [[Google Play](https://play.google.com/store/apps/details?id=org.openintents.filemanager)]
 - **FireFiles:** FireFiles is based on AnExplorer. It is a light-weight but powerful file manager for everything that runs on Android OS [[Source](https://github.com/gigabytedevelopers/FireFiles/issues)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gigabytedevelopersinc.app.explorer)]] [[Google Play](https://play.google.com/store/apps/details?id=com.gigabytedevelopersinc.app.explorer)] 🛑
+- **Fluffy:** A fast, modern file manager with powerful archive support and an Android TV–friendly UI. [[Source](https://github.com/mlm-games/Fluffy)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/app.fluffy)]
 
 ### Download Manager
 
