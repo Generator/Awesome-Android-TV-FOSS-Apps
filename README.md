@@ -84,7 +84,7 @@
 ### Streaming - Movies/TV/Anime
 
 - **Stremio:** A video streaming application, that allows you to watch and organize video content from different services [[Source](https://github.com/Stremio)] [[Website](https://www.stremio.com/)] [[Google Play](https://play.google.com/store/apps/details?id=com.stremio.one)] ⚠️
-- **Streamflix:** An Android TV app to stream movies and TV shows for free [[Source](https://github.com/stantanasi/streamflix)]
+- **Streamflix Reborn:** An Android TV app to stream movies and TV shows for free [[Source](https://github.com/streamflix-reborn/streamflix)]
 - **CloudStream:** App for streaming and downloading media [[Source](https://github.com/recloudstream/cloudstream)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3)]
 - **Flixclusive:** A modern streaming service app that provides users with a convenient way to play and watch the latest movies and TV shows available on the internet. [[Source](https://github.com/rhenwinch/Flixclusive)]
 - **Digilog TV:** A free and open-source TV news app [[Source](https://github.com/aldrinzigmundv/digilogtv)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/io.github.aldrinzigmundv.digilogtv/)] [[Google Play](https://play.google.com/store/apps/details?id=io.github.aldrinzigmundv.digilogtv)]
