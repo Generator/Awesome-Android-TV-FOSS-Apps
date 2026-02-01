@@ -93,6 +93,7 @@
 
 - **Jellyfin:** A Free Software Media System that puts you in control of managing and streaming your media [[Source](https://github.com/jellyfin/jellyfin-androidtv)] [[Website](https://jellyfin.org/)] [[F-Droid](https://f-droid.org/en/packages/org.jellyfin.androidtv/)] [[Google Play](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv)]
 - **DSub:** Connect to your Subsonic server and listen to your music wherever you go [[Source](https://github.com/daneren2005/Subsonic)] [[F-Droid](https://f-droid.org/en/packages/github.daneren2005.dsub)] [[Google Play](https://play.google.com/store/apps/details?id=github.daneren2005.dsub)] 🖱️
+- **Wholphin:** An open-source Android TV client for Jellyfin. Wholphin supports playing media using either ExoPlayer or MPV. [[Source](https://github.com/damontecres/Wholphin/)] [[Google Play](https://play.google.com/store/apps/details?id=com.github.damontecres.wholphin)] [[Amazon Appstore](https://www.amazon.com/gp/product/B0G8RQQR9T)]
 
 ### Streaming - Twitch
 
