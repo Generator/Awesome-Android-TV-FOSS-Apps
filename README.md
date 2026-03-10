@@ -94,6 +94,7 @@
 ### Streaming - Self-hosted
 
 - **Jellyfin:** A Free Software Media System that puts you in control of managing and streaming your media [[Source](https://github.com/jellyfin/jellyfin-androidtv)] [[Website](https://jellyfin.org/)] [[F-Droid](https://f-droid.org/en/packages/org.jellyfin.androidtv/)] [[Google Play](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv)]
+  - **Jellyfin 3rd Party Clients:** [Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin/blob/main/CLIENTS.md#android-tv)
 - **DSub:** Connect to your Subsonic server and listen to your music wherever you go [[Source](https://github.com/daneren2005/Subsonic)] [[F-Droid](https://f-droid.org/en/packages/github.daneren2005.dsub)] [[Google Play](https://play.google.com/store/apps/details?id=github.daneren2005.dsub)] 🖱️
 
 ### Streaming - Twitch
