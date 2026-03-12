@@ -90,6 +90,9 @@
 - **Flixclusive:** A modern streaming service app that provides users with a convenient way to play and watch the latest movies and TV shows available on the internet. [[Source](https://github.com/rhenwinch/Flixclusive)]
 - **NuvioTV:** A modern Android TV media player powered by the Stremio addon ecosystem. [[Source](https://github.com/tapframe/NuvioTV)]
 - **Digilog TV:** A free and open-source TV news app [[Source](https://github.com/aldrinzigmundv/digilogtv)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/io.github.aldrinzigmundv.digilogtv/)] [[Google Play](https://play.google.com/store/apps/details?id=io.github.aldrinzigmundv.digilogtv)]
+- **Movie Paradise:** Movie Paradise is an Android TV app. This app is working Android TV & Android STB.
+Application is using The Movie Database. [[Source](https://github.com/halilozel1903/AndroidTVMovieParadise)]
+
 
 ### Streaming - Self-hosted
 
