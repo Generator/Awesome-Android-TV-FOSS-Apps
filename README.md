@@ -43,7 +43,7 @@
 ### Launcher
 
 - **Arc Launcher:** A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendly screensaver, and improved UX. [[Source](https://github.com/meddouribadis/arclauncher)]
-- **FLauncher (fork):** Alternative launcher for Android TV [[Source](https://github.com/CocoCR300/flauncher)]
+- **FLauncher (fork):** Alternative launcher for Android TV [[Source](https://github.com/osrosal/flauncher)]
 - **FLauncher:** Alternative launcher for Android TV [[Source](https://gitlab.com/flauncher/flauncher)] [[Google Play](https://play.google.com/store/apps/details?id=me.efesser.flauncher)]
 - **LTvLauncher:** A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendly screensaver, and improved UX. [[Source](https://github.com/LeanBitLab/LtvLauncher)]
 - **LeanbackLauncher:** Google Leanback Launcher on steroids [[Source](https://github.com/tsynik/LeanbackLauncher)]
@@ -62,8 +62,8 @@
 
 ### Web Browser
 
-- **TV Bro:** Simple web browser optimized to use with TV remote [[Source](https://github.com/truefedex/tv-bro)] [[Google Play](https://play.google.com/store/apps/details?id=com.phlox.tvwebbrowser)] 🛑
-- **DTVfree:** Simple, fast and lightweight Web browser for Android TV [[Source](https://github.com/InukaAsith/DTVfree)]
+- **TV Bro:** Simple web browser optimized to use with TV remote [[Source](https://github.com/truefedex/tv-bro)] [[Google Play](https://play.google.com/store/apps/details?id=com.phlox.tvwebbrowser)]
+- **DTVfree:** Simple, fast and lightweight Web browser for Android TV [[Source](https://github.com/InukaAsith/DTVfree)] 🛑
 
 ### Media Player
 
