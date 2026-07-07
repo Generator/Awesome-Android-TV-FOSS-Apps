@@ -87,16 +87,22 @@
 
 - **ARVIO:** A media hub application for Android TV with a modern, beautiful interface. [[Source](https://github.com/ProdigyV21/ARVIO)] [[Website](https://arvio.tv/)] [[GooglePlay](https://play.google.com/store/apps/details?id=com.arvio.tv)]
 - **CloudStream:** App for streaming and downloading media [[Source](https://github.com/recloudstream/cloudstream)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3)]
-- **Digilog TV:** A free and open-source TV news app [[Source](https://github.com/aldrinzigmundv/digilogtv)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/io.github.aldrinzigmundv.digilogtv/)] [[Google Play](https://play.google.com/store/apps/details?id=io.github.aldrinzigmundv.digilogtv)]
 - **Flixclusive:** A modern streaming service app that provides users with a convenient way to play and watch the latest movies and TV shows available on the internet. [[Source](https://github.com/rhenwinch/Flixclusive)]
 - **Lumera:** Browse, discover, and stream content from Stremio-compatible addons. Connect your Stremio account to instantly import your existing addon collection. [[Source](https://github.com/LumeraD3v/Lumera)]
 - **NuvioTV:** A modern Android TV media player powered by the Stremio addon ecosystem. [[Source](https://github.com/tapframe/NuvioTV)]
 - **Streamflix Reborn:** An Android TV app to stream movies and TV shows for free [[Source](https://github.com/streamflix-reborn/streamflix)]
 - **Stremio:** A video streaming application, that allows you to watch and organize video content from different services [[Source](https://github.com/Stremio)] [[Website](https://www.stremio.com/)] [[Google Play](https://play.google.com/store/apps/details?id=com.stremio.one)] ⚠️
 
+### Streaming - IPTV
+
+- **Digilog TV:** A free and open-source TV news app. [[Source](https://github.com/aldrinzigmundv/digilogtv)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/io.github.aldrinzigmundv.digilogtv/)] [[Google Play](https://play.google.com/store/apps/details?id=io.github.aldrinzigmundv.digilogtv)]
+- **M3U:** Stream media player on Android devices. [[Source](https://github.com/realOxy/M3UAndroid)] [[F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3)]
+- **Megacubo:** Cross-platform IPTV player for Windows, Linux, macOS and Android with support for M3U playlists, live TV streams, bookmarks, history, miniplayer mode and community lists. [[Source](https://github.com/EdenwareApps/Megacubo)] [[Website](https://megacubo.tv)]
+- **XPlayer:** A cross-platform IPTV / M3U player. [[Source](https://github.com/TNT-Likely/xplayer)]
+
 ### Streaming - Self-hosted
 
-  - **Jellyfin 3rd Party Clients:** [Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin/blob/main/CLIENTS.md#android-tv)
+- **Jellyfin 3rd Party Clients:** [Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin/blob/main/CLIENTS.md#android-tv)
 - **DSub:** Connect to your Subsonic server and listen to your music wherever you go [[Source](https://github.com/daneren2005/Subsonic)] [[F-Droid](https://f-droid.org/en/packages/github.daneren2005.dsub)] [[Google Play](https://play.google.com/store/apps/details?id=github.daneren2005.dsub)] 🖱️
 - **Jellyfin:** A Free Software Media System that puts you in control of managing and streaming your media [[Source](https://github.com/jellyfin/jellyfin-androidtv)] [[Website](https://jellyfin.org/)] [[F-Droid](https://f-droid.org/en/packages/org.jellyfin.androidtv/)] [[Google Play](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv)]
 
@@ -108,17 +114,15 @@
 
 - **Artemis:** An open source client for Apollo/Sunshine [[Source](https://github.com/ClassicOldSong/moonlight-android)]
 - **FCast:** An open-source protocol designed to open wireless audio and video streaming to everybody. [[Source](https://gitlab.futo.org/videostreaming/fcast)] [[Website](https://fcast.org/)] [[Google Play](https://play.google.com/store/apps/details?id=com.futo.fcast.receiver.playstore)]
-- **M3U:** Stream media player on Android devices [[Source](https://github.com/realOxy/M3UAndroid)] [[F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3)]
 - **Moonlight:** Play games from your PC on Android [[Source](https://github.com/moonlight-stream/moonlight-android)] [[Website](https://moonlight-stream.org/)] [[F-Droid](https://f-droid.org/packages/com.limelight/)] [[Google Play](https://play.google.com/store/apps/details?id=com.limelight)]
 
 ### File Browser
 
 - **Amaze:** Simple and attractive Material Design file manager for Android [[Source](https://github.com/TeamAmaze/AmazeFileManager)] [[Website](https://teamamaze.xyz/)] [[F-Droid](https://f-droid.org/packages/com.amaze.filemanager/)] [[Google Play](https://play.google.com/store/apps/details?id=com.amaze.filemanager)]
-- **FireFiles:** FireFiles is based on AnExplorer. It is a light-weight but powerful file manager for everything that runs on Android OS [[Source](https://github.com/gigabytedevelopers/FireFiles/issues)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gigabytedevelopersinc.app.explorer)]] [[Google Play](https://play.google.com/store/apps/details?id=com.gigabytedevelopersinc.app.explorer)] 🛑
+- **AnExplorer:** AnExplorer is an All-in-One Open source file manager. It is a light-weight but powerful file manager for everything that runs on Android OS [[Source](https://github.com/1hakr/AnExplorer)] [[Website](https://anexplorer.io)]] [[Google Play](https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer)]
 - **Fluffy:** A fast, modern file manager with powerful archive support and an Android TV–friendly UI. [[Source](https://github.com/mlm-games/Fluffy)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/app.fluffy)]
 - **Ghost Commander:** Dual-panel file manager [[Source](https://sourceforge.net/p/ghostcommander)] [[Website](https://sites.google.com/site/ghostcommander1)] [[F-Droid](https://f-droid.org/en/packages/com.ghostsq.commander)] [[Google Play](https://play.google.com/store/apps/details?id=com.ghostsq.commander)]
 - **Material Files:** Material Design file manager for Android [[Source](https://github.com/zhanghai/MaterialFiles)] [[F-Droid](https://f-droid.org/packages/me.zhanghai.android.files)] [[Google Play](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)] 📺
-- **OI File Manager:** OI File Manager [[Source](https://github.com/openintents/filemanager)] [[F-Droid](https://f-droid.org/en/packages/org.openintents.filemanager/)] [[Google Play](https://play.google.com/store/apps/details?id=org.openintents.filemanager)]
 
 ### Download Manager
 
@@ -129,10 +133,16 @@
 
 ### Connectivity
 
-- **BT Remote:** An Android app that turns your smartphone into a Bluetooth remote for Android TV. [[Source](https://gitlab.com/Atharok/BtRemote)] [[F-Droid](https://f-droid.org/packages/com.atharok.btremote/)] [[Google Play](https://play.google.com/store/apps/details?id=com.atharok.btremote.gplay)]
 - **KDE Connect:** A multi-platform app that allows your devices to communicate with each other [[Source](https://invent.kde.org/network/kdeconnect-android)] [[Website](https://community.kde.org/KDEConnect)] [[F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp)] [[Google Play](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp)] 🚫📺
 - **LinkLoom:** A Android TV Application To Show Browsers, History, Save Web Pages Links, Share Links Between Android Mobile app and TV [[Source](https://github.com/Yazan98/LinkLoomTv)]
 - **LocalSend:** Allows you to securely share files and messages with nearby devices over your local network without needing an internet connection [[Source](https://github.com/localsend/localsend)] [[F-Droid](https://f-droid.org/packages/org.localsend.localsend_app)] [[Google Play](https://play.google.com/store/apps/details?id=org.localsend.localsend_app)]
+
+### Remote
+
+- **BT Remote:** An Android app that turns your smartphone into a Bluetooth remote for Android TV. [[Source](https://gitlab.com/Atharok/BtRemote)] [[F-Droid](https://f-droid.org/packages/com.atharok.btremote/)] [[Google Play](https://play.google.com/store/apps/details?id=com.atharok.btremote.gplay)]
+- **IR Blaster Remote:** IR Blaster is an Android application for creating, managing, and transmitting infrared (IR) signals through multiple output methods, including a device’s built-in IR emitter, supported USB IR dongles, and audio-to-IR LED adapters. [[Source](https://github.com/iodn/android-ir-blaster)] [[F-Droid](https://f-droid.org/en/packages/org.nslabs.ir_blaster/)] [[Google Play](https://play.google.com/store/apps/details?id=org.nslabs.ir_blaster)]
+- **MATVT:** Virtual Mouse for Android TV that can be controlled via remote itself. [[Source](https://github.com/virresh/matvt)]
+- **Nope Remote:** Android IR Remote Application with Custom Flows Support. [[Source](https://github.com/monuk7735/nope-remote)] [[F-Droid](https://f-droid.org/packages/com.monuk7735.nope.remote/)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.monuk7735.nope.remote)]
 
 ### Gallery
 
@@ -173,7 +183,6 @@
 - **DAVx⁵:** A CalDAV/CardDAV (and webdav provider) management and synchronization app for Android which natively integrates with Android calendar/contact apps. [[Source](https://github.com/bitfireAT/davx5-ose/)] [[F-Droid](https://f-droid.org/en/packages/at.bitfire.davdroid/)] [[Google Play](https://play.google.com/store/apps/details?id=at.bitfire.davdroid)] 💰 [[Website](https://www.davx5.com/)]
 - **Key Mapper:** An Android app that change what the buttons do on your devices [[Source](https://github.com/keymapperorg/KeyMapper)] [[Website](http://docs.keymapper.club/)] [[F-Droid](https://f-droid.org/packages/io.github.sds100.keymapper/)] [[Google Play](https://play.google.com/store/apps/details?id=io.github.sds100.keymapper)] 🚫
 - **Launch-On-Boot:** Launches a TV app when the device boots [[Source](https://github.com/ITVlab/Launch-On-Boot)] [[F-Droid](https://f-droid.org/packages/news.androidtv.launchonboot/)] [[Google Play](https://play.google.com/store/apps/details?id=news.androidtv.launchonboot)]
-- **MATVT:** Virtual Mouse for Android TV that can be controlled via remote itself. [[Source](https://github.com/virresh/matvt)]
 - **Neo Backup:** open-source tool to backup your apps and data [[Source](https://github.com/NeoApplications/Neo-Backup)] [[F-Droid](https://f-droid.org/packages/com.machiav3lli.backup/)] 🤖
 - **NetGuard:** A simple way to block access to the internet per application [[Source](https://github.com/M66B/NetGuard)] [[F-Droid](https://f-droid.org/en/packages/eu.faircode.netguard/)] [[Google Play](https://play.google.com/store/apps/details?id=eu.faircode.netguard)] [[Website](https://netguard.me/)] 📺
 - **Quick Settings:** Quick Settings provides quick access to various Android system settings [[Source](https://f-droid.org/repo/com.bwx.bequick_201107260_src.tar.gz)] [[F-Droid](https://f-droid.org/en/packages/com.bwx.bequick/)] 📺 🛑⚠️
