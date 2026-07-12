@@ -118,11 +118,14 @@
 
 ### File Browser
 
-- **Amaze:** Simple and attractive Material Design file manager for Android [[Source](https://github.com/TeamAmaze/AmazeFileManager)] [[Website](https://teamamaze.xyz/)] [[F-Droid](https://f-droid.org/packages/com.amaze.filemanager/)] [[Google Play](https://play.google.com/store/apps/details?id=com.amaze.filemanager)]
-- **AnExplorer:** AnExplorer is an All-in-One Open source file manager. It is a light-weight but powerful file manager for everything that runs on Android OS [[Source](https://github.com/1hakr/AnExplorer)] [[Website](https://anexplorer.io)]] [[Google Play](https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer)]
+- **Amaze File Manager:** Simple and attractive Material Design file manager for Android. [[Source](https://github.com/TeamAmaze/AmazeFileManager)] [[Website](https://teamamaze.xyz)] [[F-Droid](https://f-droid.org/packages/com.amaze.filemanager/)] [[Google Play](https://play.google.com/store/apps/details?id=com.amaze.filemanager)]
+- **FireFiles:** FireFiles is based on AnExplorer. It is a light-weight but powerful file manager for everything that runs on Android OS. [[Source](https://github.com/gigabytedevelopers/FireFiles)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gigabytedevelopersinc.app.explorer)]] [[Google Play](https://play.google.com/store/apps/details?id=com.gigabytedevelopersinc.app.explorer)] 🛑
 - **Fluffy:** A fast, modern file manager with powerful archive support and an Android TV–friendly UI. [[Source](https://github.com/mlm-games/Fluffy)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/app.fluffy)]
+- **Fossify File Manager:** Easy app for managing your files without ads, respecting your privacy & security. [[Source](https://github.com/FossifyOrg/File-Manager)] [[Website](https://www.fossify.org)] [[F-Droid](https://f-droid.org/packages/org.fossify.filemanager/)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.fossify.filemanager)]] [[Google Play](https://play.google.com/store/apps/details?id=org.fossify.filemanager)]
 - **Ghost Commander:** Dual-panel file manager [[Source](https://sourceforge.net/p/ghostcommander)] [[Website](https://sites.google.com/site/ghostcommander1)] [[F-Droid](https://f-droid.org/en/packages/com.ghostsq.commander)] [[Google Play](https://play.google.com/store/apps/details?id=com.ghostsq.commander)]
-- **Material Files:** Material Design file manager for Android [[Source](https://github.com/zhanghai/MaterialFiles)] [[F-Droid](https://f-droid.org/packages/me.zhanghai.android.files)] [[Google Play](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)] 📺
+- **Material Files:** Material Design file manager for Android [[Source](https://github.com/zhanghai/MaterialFiles)] [[F-Droid](https://f-droid.org/packages/me.zhanghai.android.files)] [[Google Play](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)]
+- **Prism File Explorer:** A modern, feature-rich, and lightweight file manager for Android, built entirely with Kotlin and Jetpack Compose. [[Source](https://github.com/Raival-e/Prism-File-Explorer)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.raival.compose.file.explorer)] [[OpenAPK](https://www.openapk.net/file-explorer/com.raival.compose.file.explorer/)] 🛑
+- **Voyager:** An open-source file manager for Android with built-in SFTP, FTP, SMB, and WebDAV access. [[Source](https://github.com/AlanHuang99/Voyager)] [[F-Droid](https://f-droid.org/packages/com.voyagerfiles/)]
 
 ### Download Manager
 
@@ -140,9 +143,11 @@
 ### Remote
 
 - **BT Remote:** An Android app that turns your smartphone into a Bluetooth remote for Android TV. [[Source](https://gitlab.com/Atharok/BtRemote)] [[F-Droid](https://f-droid.org/packages/com.atharok.btremote/)] [[Google Play](https://play.google.com/store/apps/details?id=com.atharok.btremote.gplay)]
+- **Firemote:** Apple TV, Amazon Fire TV, Chromecast, Homatics, NVIDIA Shield, onn., Roku, Xiaomi Mi, and Android TV remote control card for Home Assistant. [[Source](https://github.com/PRProd/HA-Firemote)]
 - **IR Blaster Remote:** IR Blaster is an Android application for creating, managing, and transmitting infrared (IR) signals through multiple output methods, including a device’s built-in IR emitter, supported USB IR dongles, and audio-to-IR LED adapters. [[Source](https://github.com/iodn/android-ir-blaster)] [[F-Droid](https://f-droid.org/en/packages/org.nslabs.ir_blaster/)] [[Google Play](https://play.google.com/store/apps/details?id=org.nslabs.ir_blaster)]
 - **MATVT:** Virtual Mouse for Android TV that can be controlled via remote itself. [[Source](https://github.com/virresh/matvt)]
 - **Nope Remote:** Android IR Remote Application with Custom Flows Support. [[Source](https://github.com/monuk7735/nope-remote)] [[F-Droid](https://f-droid.org/packages/com.monuk7735.nope.remote/)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.monuk7735.nope.remote)]
+- **Universal Remote Card:** A completely customizable universal remote card for Home Assistant. [[Source](https://github.com/Nerwyn/universal-remote-card)]
 
 ### Gallery
 
