@@ -13,7 +13,6 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Apps](#apps)
   - [Launcher](#launcher)
   - [Keyboard](#keyboard)
@@ -22,12 +21,14 @@
   - [Media Player](#media-player)
   - [Streaming - YouTube](#streaming---youtube)
   - [Streaming - Movies/TV/Anime](#streaming---moviestvanime)
+  - [Streaming - IPTV](#streaming---iptv)
   - [Streaming - Self-hosted](#streaming---self-hosted)
   - [Streaming - Twitch](#streaming---twitch)
   - [Streaming - Other](#streaming---other)
   - [File Browser](#file-browser)
   - [Download Manager](#download-manager)
   - [Connectivity](#connectivity)
+  - [Remote](#remote)
   - [Gallery](#gallery)
   - [Notifications](#notifications)
   - [Screen Saver](#screen-saver)
