@@ -126,6 +126,7 @@
 - **Ghost Commander:** Dual-panel file manager [[Source](https://sourceforge.net/p/ghostcommander)] [[Website](https://sites.google.com/site/ghostcommander1)] [[F-Droid](https://f-droid.org/en/packages/com.ghostsq.commander)] [[Google Play](https://play.google.com/store/apps/details?id=com.ghostsq.commander)]
 - **Material Files:** Material Design file manager for Android [[Source](https://github.com/zhanghai/MaterialFiles)] [[F-Droid](https://f-droid.org/packages/me.zhanghai.android.files)] [[Google Play](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)]
 - **Prism File Explorer:** A modern, feature-rich, and lightweight file manager for Android, built entirely with Kotlin and Jetpack Compose. [[Source](https://github.com/Raival-e/Prism-File-Explorer)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.raival.compose.file.explorer)] [[OpenAPK](https://www.openapk.net/file-explorer/com.raival.compose.file.explorer/)]  📺 🛑
+- **Ultimate File Manager Pro:** A powerful, dual-pane file manager for Android and Android TV, built for power users. [[Source](https://github.com/Kilowatch/ultimate-file-manager-pro)] [[Google Play](https://play.google.com/store/apps/details?id=za.kilowatch.ultimatefilemanager)]
 - **Voyager:** An open-source file manager for Android with built-in SFTP, FTP, SMB, and WebDAV access. [[Source](https://github.com/AlanHuang99/Voyager)] [[F-Droid](https://f-droid.org/packages/com.voyagerfiles/)] 📺
 
 ### Download Manager
