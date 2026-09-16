@@ -45,10 +45,11 @@
 ### Launcher
 
 - **Arc Launcher:** A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendly screensaver, and improved UX. [[Source](https://github.com/meddouribadis/arclauncher)]
-- **FLauncher (fork):** Alternative launcher for Android TV [[Source](https://github.com/osrosal/flauncher)]
-- **FLauncher:** Alternative launcher for Android TV [[Source](https://gitlab.com/flauncher/flauncher)] [[Google Play](https://play.google.com/store/apps/details?id=me.efesser.flauncher)]
+- **FLauncher (fork):** Alternative launcher for Android TV. [[Source](https://github.com/osrosal/flauncher)]
+- **FLauncher:** Alternative launcher for Android TV. [[Source](https://gitlab.com/flauncher/flauncher)] [[Google Play](https://play.google.com/store/apps/details?id=me.efesser.flauncher)]
 - **LTvLauncher:** A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendly screensaver, and improved UX. [[Source](https://github.com/LeanBitLab/LtvLauncher)]
-- **LeanbackLauncher:** Google Leanback Launcher on steroids [[Source](https://github.com/tsynik/LeanbackLauncher)]
+- **LeanbackLauncher:** Google Leanback Launcher on steroids. [[Source](https://github.com/tsynik/LeanbackLauncher)]
+- **Lightning Launcher:** A lightning-fast app launcher designed for big screens. Fully compatible with Meta Quest & Android TV. [[Source](https://github.com/threethan/LightningLauncher)]
 
 ### Keyboard
 
