@@ -89,7 +89,7 @@
 - **NewPipe:** Lightweight YouTube frontend [[Source](https://github.com/TeamNewPipe/NewPipe)] [[Website](https://newpipe.net/)] [[F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)]
 - **SmartTube:** An advanced (YouTube) player for Android TVs and TV boxes [[Source](https://github.com/yuliskov/smarttube)] [[Website](https://smarttubeapp.github.io/)]
 - **TizenTube Cobalt:** Experience TizenTube on other devices that are not Tizen [[Source](https://github.com/reisxd/TizenTubeCobalt)]
-- **Tubular:** A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike [[Source](https://github.com/polymorphicshade/Tubular)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.tubular)]
+- **Tubular:** A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike [[Source](https://github.com/polymorphicshade/Tubular)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.tubular)] 🛑
 
 ### Streaming - Movies/TV/Anime
 
