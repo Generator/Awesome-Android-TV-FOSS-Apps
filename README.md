@@ -128,6 +128,7 @@
 - **Artemis:** An open source client for Apollo/Sunshine [[Source](https://github.com/ClassicOldSong/moonlight-android)]
 - **FCast:** An open-source protocol designed to open wireless audio and video streaming to everybody. [[Source](https://gitlab.futo.org/videostreaming/fcast)] [[Website](https://fcast.org/)] [[Google Play](https://play.google.com/store/apps/details?id=com.futo.fcast.receiver.playstore)]
 - **Moonlight:** Play games from your PC on Android [[Source](https://github.com/moonlight-stream/moonlight-android)] [[Website](https://moonlight-stream.org/)] [[F-Droid](https://f-droid.org/packages/com.limelight/)] [[Google Play](https://play.google.com/store/apps/details?id=com.limelight)]
+- **TMPlayer:** Plays the videos in your Telegram chats, channels and groups, streaming while they download [[Source](https://github.com/dracu-lah/TMPlayer)] [[Website](https://tmplayer.org/)]
 
 ### File Browser
 
