@@ -49,6 +49,7 @@
 - **FLauncher:** Alternative launcher for Android TV [[Source](https://gitlab.com/flauncher/flauncher)] [[Google Play](https://play.google.com/store/apps/details?id=me.efesser.flauncher)]
 - **LTvLauncher:** A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendly screensaver, and improved UX. [[Source](https://github.com/LeanBitLab/LtvLauncher)]
 - **LeanbackLauncher:** Google Leanback Launcher on steroids [[Source](https://github.com/tsynik/LeanbackLauncher)]
+- **My Kids TV:** A calm, ad-free replacement home screen and screensaver for kids with age-graded picks (4-6, 7-10, 11-13), parent PIN, and one-click restore to the stock launcher [[Source](https://github.com/suboss87/my-kids-tv)]
 
 ### Keyboard
 
