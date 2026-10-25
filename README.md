@@ -87,6 +87,7 @@
 - **Clipious:** Client for Invidious, the privacy focused YouTube front end [[Source](https://github.com/lamarios/clipious)] [[F-Droid](https://f-droid.org/packages/com.github.lamarios.clipious/)] 🛑
 - **Flow:** A modern, feature-rich YouTube and YouTube Music client with local recommendation. [[Source](https://github.com/A-EDev/flow)] [[Website](https://flow.aedev.me/)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/io.github.aedev.flow)]
 - **NewPipe:** Lightweight YouTube frontend [[Source](https://github.com/TeamNewPipe/NewPipe)] [[Website](https://newpipe.net/)] [[F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)]
+- **PipeTv:** Fast, ad-free YouTube client for Android TV, Google TV and Fire TV with SponsorBlock, no account or Google services needed [[Source](https://github.com/LimitedIO/PipeTv)] [[Website](https://limitedio.github.io/PipeTv/)]
 - **SmartTube:** An advanced (YouTube) player for Android TVs and TV boxes [[Source](https://github.com/yuliskov/smarttube)] [[Website](https://smarttubeapp.github.io/)]
 - **TizenTube Cobalt:** Experience TizenTube on other devices that are not Tizen [[Source](https://github.com/reisxd/TizenTubeCobalt)]
 - **Tubular:** A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike [[Source](https://github.com/polymorphicshade/Tubular)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.tubular)]
