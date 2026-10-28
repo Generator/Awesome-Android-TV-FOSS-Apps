@@ -10,6 +10,7 @@
   - ⚠️ App includes non-free components
   - 💰 Paid features
   - 🛑 Development (possible) stopped
+  - ✴️ AI coding assisted
 
 ## Table of Contents
 
@@ -47,12 +48,14 @@
 - **Arc Launcher:** A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendly screensaver, and improved UX. [[Source](https://github.com/meddouribadis/arclauncher)]
 - **FLauncher (fork):** Alternative launcher for Android TV [[Source](https://github.com/osrosal/flauncher)]
 - **FLauncher:** Alternative launcher for Android TV [[Source](https://gitlab.com/flauncher/flauncher)] [[Google Play](https://play.google.com/store/apps/details?id=me.efesser.flauncher)]
+- **Gothwad:**  TV Launcher is made for Android TVs and Tablets SImple looking but advance feature luncher notification recents apps ads free suitable for all types of devices. [[Source](https://github.com/gothwadtech/launcher)]
 - **LTvLauncher:** A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendly screensaver, and improved UX. [[Source](https://github.com/LeanBitLab/LtvLauncher)]
 - **LeanbackLauncher:** Google Leanback Launcher on steroids [[Source](https://github.com/tsynik/LeanbackLauncher)]
 
 ### Keyboard
 
 - **LeanKeyKeyboard:** Keyboard for Android-based set-top boxes and TV [[Source](https://github.com/yuliskov/LeanKeyKeyboard)] [[Google Play](https://play.google.com/store/apps/details?id=org.liskovsoft.androidtv.rukeyboard)]
+- **WM Keyboard:** A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem. [[Source](https://github.com/wasi-master/wmkeyboard)] [[Website](https://wmkeyboard.app/)] [[Google Play](https://play.google.com/store/apps/details?id=com.wasimaster.wmkeyboard)]
 
 ### App Store
 
@@ -65,10 +68,14 @@
 ### Web Browser
 
 - **DTVfree:** Simple, fast and lightweight Web browser for Android TV [[Source](https://github.com/InukaAsith/DTVfree)] 🛑
+- **Gothwad:** Ultimate Desktop-Grade Web Browser for Android TVs. [[Source](https://github.com/gothwadtech/browser)]
 - **mrowser:** A lightweight, open-source smart TV web browser built specifically for Android TV and the D-pad remote. Its point is streaming video from sites the TV has no app for. [[Source](https://github.com/m-salehi-v/mrowser)] [[Website](https://m-salehi-v.github.io/mrowser/)]
 - **TV Bro:** Simple web browser optimized to use with TV remote [[Source](https://github.com/truefedex/tv-bro)] [[Google Play](https://play.google.com/store/apps/details?id=com.phlox.tvwebbrowser)]
 
 ### Media Player
+
+- **Aperture:** A Material 3 Media Player for Android TV. [[Source](https://github.com/XDanfr/Aperture)]
+- **DreamPlayer:** Open-source video player for Android TV: Dolby Vision, HDR10+, DTS-HD/TrueHD audio, SMB/NAS + Jellyfin/WebDAV streaming, subtitles. GPLv3, Flutter + ExoPlayer/Media3 + AetherEngine. [[Source]((https://github.com/mangeshghodke/DreamPlayer))]
 
 - **Fermata:** a free, open source audio, video and TV player with a simple and intuitive interface [[Source](https://github.com/AndreyPavlenko/Fermata)] [[Google Play](https://play.google.com/store/apps/details?id=me.aap.fermata)]
 - **Ghosten Player:** A video player for local or hosted Jellyfin/Emby servers [[Source](https://github.com/GhostenEditor/Ghosten-Player)]
@@ -96,9 +103,14 @@
 - **ARVIO:** A media hub application for Android TV with a modern, beautiful interface. [[Source](https://github.com/ProdigyV21/ARVIO)] [[Website](https://arvio.tv/)] [[GooglePlay](https://play.google.com/store/apps/details?id=com.arvio.tv)]
 - **CloudStream:** App for streaming and downloading media [[Source](https://github.com/recloudstream/cloudstream)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3)]
 - **Flixclusive:** A modern streaming service app that provides users with a convenient way to play and watch the latest movies and TV shows available on the internet. [[Source](https://github.com/rhenwinch/Flixclusive)]
+- **Illumera:** Android TV streaming app for Stremio addons. [[Source](https://github.com/HereLiesAz/illumera)]
 - **Lumera:** Browse, discover, and stream content from Stremio-compatible addons. Connect your Stremio account to instantly import your existing addon collection. [[Source](https://github.com/LumeraD3v/Lumera)]
 - **NuvioTV:** A modern Android TV media player powered by the Stremio addon ecosystem. [[Source](https://github.com/tapframe/NuvioTV)]
+- **Rivulet:** A media library and BitTorrent player for desktop and Android TV — embedded mpv, in-process torrent engine. [[Source](https://github.com/baigcoder/rivulet)]
 - **Streamflix Reborn:** An Android TV app to stream movies and TV shows for free [[Source](https://github.com/streamflix-reborn/streamflix)]
+- **StreamTV:** A premium, TV-optimized Flutter application designed for Android and Android TV devices to stream movies and TV series. [[Source](https://github.com/kokosip/stream-tv)]
+- **Watchbox:** A native anime, movie and series client for Android phones, tablets and TV. [[Source](https://github.com/Nicartjay/Watchbox-Android)]
+- **Zangetsu:** Free, open-source app for anime, movies, series, manga and light novels [[Source](https://github.com/Spyou/Zangetsu)] [[Website](https://zangetsu.online/)]
 
 ### Streaming - IPTV
 
@@ -111,13 +123,16 @@
 - **Megacubo:** Cross-platform IPTV player for Windows, Linux, macOS and Android with support for M3U playlists, live TV streams, bookmarks, history, miniplayer mode and community lists. [[Source](https://github.com/EdenwareApps/Megacubo)] [[Website](https://megacubo.tv)]
 - **OwnTV:** Your own IPTV player for Android TV. [[Source](https://github.com/ahXN00/OwnTV)]
 - **Prysm:** a modern, lightweight M3U IPTV player built with Expo / React. [[Source](https://github.com/dereferencex/prysm)]
+- **telly:** A beautiful, open-source live-TV experience for Android TV [[Source](https://github.com/johnpc/telly)]
 - **XPlayer:** A cross-platform IPTV / M3U player. [[Source](https://github.com/TNT-Likely/xplayer)] 📺
 
 ### Streaming - Self-hosted
 
-- **Jellyfin 3rd Party Clients:** [Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin/blob/main/CLIENTS.md#android-tv)
+- **Avalon MediaCard:** A modern, self-hosted media platform that brings movies, TV series, and anime together into a single, minimalist interface. [[Source](https://github.com/ensodai/avalon-media-card)]
 - **DSub:** Connect to your Subsonic server and listen to your music wherever you go [[Source](https://github.com/daneren2005/Subsonic)] [[F-Droid](https://f-droid.org/en/packages/github.daneren2005.dsub)] [[Google Play](https://play.google.com/store/apps/details?id=github.daneren2005.dsub)] 🖱️
 - **Jellyfin:** A Free Software Media System that puts you in control of managing and streaming your media [[Source](https://github.com/jellyfin/jellyfin-androidtv)] [[Website](https://jellyfin.org/)] [[F-Droid](https://f-droid.org/en/packages/org.jellyfin.androidtv/)] [[Google Play](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv)]
+  - **Jellyfin 3rd Party Clients:** [Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin/blob/main/CLIENTS.md#android-tv)
+- **Reelay:** Custom Plex client for Android TV. [[Source](https://github.com/Midge-dev/reelay)]
 
 ### Streaming - Twitch
 
@@ -150,6 +165,7 @@
 
 ### Connectivity
 
+- **GTV Remote:** A modern, native macOS remote control & quick launcher for Google TV / Android TV. [[Source](https://github.com/badugisoft/gtv-remote)]
 - **KDE Connect:** A multi-platform app that allows your devices to communicate with each other [[Source](https://invent.kde.org/network/kdeconnect-android)] [[Website](https://community.kde.org/KDEConnect)] [[F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp)] [[Google Play](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp)] 🚫📺
 - **LinkLoom:** A Android TV Application To Show Browsers, History, Save Web Pages Links, Share Links Between Android Mobile app and TV [[Source](https://github.com/Yazan98/LinkLoomTv)]
 - **LocalSend:** Allows you to securely share files and messages with nearby devices over your local network without needing an internet connection [[Source](https://github.com/localsend/localsend)] [[F-Droid](https://f-droid.org/packages/org.localsend.localsend_app)] [[Google Play](https://play.google.com/store/apps/details?id=org.localsend.localsend_app)]
@@ -158,6 +174,7 @@
 
 - **BT Remote:** An Android app that turns your smartphone into a Bluetooth remote for Android TV. [[Source](https://gitlab.com/Atharok/BtRemote)] [[F-Droid](https://f-droid.org/packages/com.atharok.btremote/)] [[Google Play](https://play.google.com/store/apps/details?id=com.atharok.btremote.gplay)]
 - **Firemote:** Apple TV, Amazon Fire TV, Chromecast, Homatics, NVIDIA Shield, onn., Roku, Xiaomi Mi, and Android TV remote control card for Home Assistant. [[Source](https://github.com/PRProd/HA-Firemote)]
+- **Gamepad:** Android Bluetooth HID gamepad, mouse touchpad and TV navigation. [[Source](https://github.com/Sensat10on/Gamepad)]
 - **IR Blaster Remote:** IR Blaster is an Android application for creating, managing, and transmitting infrared (IR) signals through multiple output methods, including a device’s built-in IR emitter, supported USB IR dongles, and audio-to-IR LED adapters. [[Source](https://github.com/iodn/android-ir-blaster)] [[F-Droid](https://f-droid.org/en/packages/org.nslabs.ir_blaster/)] [[Google Play](https://play.google.com/store/apps/details?id=org.nslabs.ir_blaster)]
 - **MATVT:** Virtual Mouse for Android TV that can be controlled via remote itself. [[Source](https://github.com/virresh/matvt)]
 - **Nope Remote:** Android IR Remote Application with Custom Flows Support. [[Source](https://github.com/monuk7735/nope-remote)] [[F-Droid](https://f-droid.org/packages/com.monuk7735.nope.remote/)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.monuk7735.nope.remote)]
@@ -201,6 +218,8 @@
 - **App Manager:** A full-featured open source package manager for android [[Source](https://github.com/MuntashirAkon/AppManager)] [[F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager)] 🤖🖱️
 - **CPU Info:** a KMP application which provides information about device hardware and software [[Source](https://github.com/kamgurgul/cpu-info)] [[F-Droid](https://f-droid.org/packages/com.kgurgul.cpuinfo/)] [[Google Play](https://play.google.com/store/apps/details?id=com.kgurgul.cpuinfo)]
 - **DAVx⁵:** A CalDAV/CardDAV (and webdav provider) management and synchronization app for Android which natively integrates with Android calendar/contact apps. [[Source](https://github.com/bitfireAT/davx5-ose/)] [[F-Droid](https://f-droid.org/en/packages/at.bitfire.davdroid/)] [[Google Play](https://play.google.com/store/apps/details?id=at.bitfire.davdroid)] 💰 [[Website](https://www.davx5.com/)]
+- **Dock:** An ambient TV dashboard for Android TV — clock, calendar, Spotify, AirPlay, WireGuard VPN. [[Source](https://github.com/the-mrinal/Dock)] [[Website](https://dock.mrinal.dev/)] ✴️
+- **HomeKey TV:** Fast, lightweight quick-access dock and remote button remapper for Google TV and Android TV, seamlessly integrated with Home Assistant. [[Source](https://github.com/leonida92/HomeKeyTV)]
 - **Key Mapper:** An Android app that change what the buttons do on your devices [[Source](https://github.com/keymapperorg/KeyMapper)] [[Website](http://docs.keymapper.club/)] [[F-Droid](https://f-droid.org/packages/io.github.sds100.keymapper/)] [[Google Play](https://play.google.com/store/apps/details?id=io.github.sds100.keymapper)] 🚫
 - **Launch-On-Boot:** Launches a TV app when the device boots [[Source](https://github.com/ITVlab/Launch-On-Boot)] [[F-Droid](https://f-droid.org/packages/news.androidtv.launchonboot/)] [[Google Play](https://play.google.com/store/apps/details?id=news.androidtv.launchonboot)]
 - **Neo Backup:** open-source tool to backup your apps and data [[Source](https://github.com/NeoApplications/Neo-Backup)] [[F-Droid](https://f-droid.org/packages/com.machiav3lli.backup/)] 🤖
