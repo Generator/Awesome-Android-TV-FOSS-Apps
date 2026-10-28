@@ -65,8 +65,8 @@ body:
       label: Ai Assisted
       description: Does the app have been codded with Ai assistant?
       options:
-        - "Yes"
         - "No"
+        - "Yes"
     validations:
       required: true
   - type: textarea
