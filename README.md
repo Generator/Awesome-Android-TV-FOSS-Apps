@@ -48,7 +48,7 @@
 - **Arc Launcher:** A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendly screensaver, and improved UX. [[Source](https://github.com/meddouribadis/arclauncher)]
 - **FLauncher (fork):** Alternative launcher for Android TV [[Source](https://github.com/osrosal/flauncher)]
 - **FLauncher:** Alternative launcher for Android TV [[Source](https://gitlab.com/flauncher/flauncher)] [[Google Play](https://play.google.com/store/apps/details?id=me.efesser.flauncher)]
-- **Gothwad:**  TV Launcher is made for Android TVs and Tablets SImple looking but advance feature luncher notification recents apps ads free suitable for all types of devices. [[Source](https://github.com/gothwadtech/launcher)]
+- **Gothwad:**  TV Launcher is made for Android TVs and Tablets SImple looking but advance feature launcher notification recents apps ads free suitable for all types of devices. [[Source](https://github.com/gothwadtech/launcher)]
 - **LTvLauncher:** A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendly screensaver, and improved UX. [[Source](https://github.com/LeanBitLab/LtvLauncher)]
 - **LeanbackLauncher:** Google Leanback Launcher on steroids [[Source](https://github.com/tsynik/LeanbackLauncher)]
 - **My Kids TV:** A calm, ad-free home screen for your child's TV, with only the films and shows worth their time. [[Source](https://github.com/suboss87/my-kids-tv)] ✴️
