@@ -59,6 +59,16 @@ body:
         - "No"
     validations:
       required: true
+  - type: dropdown
+    id: ai-code
+    attributes:
+      label: Ai Assisted
+      description: Does the app have been codded with Ai assistant?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
   - type: textarea
     id: additional-info
     attributes:
