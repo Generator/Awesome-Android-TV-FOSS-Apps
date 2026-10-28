@@ -51,6 +51,7 @@
 - **Gothwad:**  TV Launcher is made for Android TVs and Tablets SImple looking but advance feature luncher notification recents apps ads free suitable for all types of devices. [[Source](https://github.com/gothwadtech/launcher)]
 - **LTvLauncher:** A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendly screensaver, and improved UX. [[Source](https://github.com/LeanBitLab/LtvLauncher)]
 - **LeanbackLauncher:** Google Leanback Launcher on steroids [[Source](https://github.com/tsynik/LeanbackLauncher)]
+- **ShackScreen:**  a free launcher dashboard that turns the TV or tablet in your shack into a live radio dashboard. [[Source](https://github.com/maxhayim/ShackScreen)] ✴️
 
 ### Keyboard
 
