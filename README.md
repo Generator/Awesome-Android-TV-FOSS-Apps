@@ -228,6 +228,7 @@
 - **SD Maid SE:** Android's most thorough cleaning tool. [[Source](https://github.com/d4rken-org/sdmaid-se)] [[F-Droid](https://f-droid.org/en/packages/eu.darken.sdmse/)] [[Google Play](https://play.google.com/store/apps/details?id=eu.darken.sdmse)] 📺
 - **Shizuku:** Using system APIs directly with adb/root privileges from normal apps [[Source](https://github.com/RikkaApps/Shizuku)] [[Website](https://shizuku.rikka.app/)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.shizuku.privileged.api)] [[Google Play](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)] 🚫
 - **Termux:** A free and open source cross-platform terminal emulator and IDE [[Source](https://github.com/termux/termux-app)] [[F-Droid](https://f-droid.org/en/packages/com.termux)] 🖱️
+- **TV Box Tools:** a launcher manager and ADB toolbox for Android TV and Google TV boxes. [[Source](https://github.com/smartago/tvboxtools)] [[Website](https://tvboxtools.com/)] ✴️
 - **WebDAV Provider:** An Android app that can expose WebDAV through Android's Storage Access Framework (SAF). [[Source](https://github.com/alexbakker/webdav-provider)] [[Google Play](https://play.google.com/store/apps/details?id=dev.rocli.android.webdav)] 💰 📺
 
 ## Contributing
