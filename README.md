@@ -246,6 +246,7 @@
 - [albertomosconi/foss-apps](https://github.com/albertomosconi/foss-apps)
 - [offa/android-foss](https://github.com/offa/android-foss)
 - [LinuxCafeFederation/awesome-android](https://github.com/LinuxCafeFederation/awesome-android)
+- [eurafaeldecarvalho/awesome-tv-debloat](https://github.com/eurafaeldecarvalho/awesome-tv-debloat) ✴️
 
 ## License
 
