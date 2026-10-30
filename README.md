@@ -53,6 +53,7 @@
 - **LeanbackLauncher:** Google Leanback Launcher on steroids [[Source](https://github.com/tsynik/LeanbackLauncher)]
 - **My Kids TV:** A calm, ad-free home screen for your child's TV, with only the films and shows worth their time. [[Source](https://github.com/suboss87/my-kids-tv)] ✴️
 - **ShackScreen:**  a free launcher dashboard that turns the TV or tablet in your shack into a live radio dashboard. [[Source](https://github.com/maxhayim/ShackScreen)] ✴️
+- **TV Home:** Simple launcher for Android TV / Google TV with widgets and a Control Center; set up from the TV Remote apps over ADB. [[Source](https://github.com/HoangTran0410/tv-remote)] [[Website](https://tvremote.pages.dev)] ✴️
 
 ### Keyboard
 
@@ -182,6 +183,7 @@
 - **IR Blaster Remote:** IR Blaster is an Android application for creating, managing, and transmitting infrared (IR) signals through multiple output methods, including a device’s built-in IR emitter, supported USB IR dongles, and audio-to-IR LED adapters. [[Source](https://github.com/iodn/android-ir-blaster)] [[F-Droid](https://f-droid.org/en/packages/org.nslabs.ir_blaster/)] [[Google Play](https://play.google.com/store/apps/details?id=org.nslabs.ir_blaster)]
 - **MATVT:** Virtual Mouse for Android TV that can be controlled via remote itself. [[Source](https://github.com/virresh/matvt)]
 - **Nope Remote:** Android IR Remote Application with Custom Flows Support. [[Source](https://github.com/monuk7735/nope-remote)] [[F-Droid](https://f-droid.org/packages/com.monuk7735.nope.remote/)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.monuk7735.nope.remote)]
+- **TV Remote:** Control Android TV / Google TV from a phone, computer or browser, with no server or account; also ADB-based TV Setup, plus free IPTV channels and retro games apps for the TV. [[Source](https://github.com/HoangTran0410/tv-remote)] [[Website](https://tvremote.pages.dev)] ✴️
 - **Universal Remote Card:** A completely customizable universal remote card for Home Assistant. [[Source](https://github.com/Nerwyn/universal-remote-card)]
 
 ### Gallery
