@@ -204,6 +204,7 @@
 
 - **Aerial Views:** A screen saver for Android TV [[Source](https://github.com/theothernt/AerialViews)] [[Google Play](https://play.google.com/store/apps/details?id=com.neilturner.aerialviews)]
 - **Nebula:** Space nebula fly-through screensaver for Android TV. [[Source](https://github.com/jordanade/Nebula)]
+- **OpenVista:** An open-source ambient video experience for Android TV, Google TV, and Fire TV. Your screen, your scenery. [[Source](https://github.com/murilaiooo/openvista)] ✴️
 
 ### DNS Proxy
 
