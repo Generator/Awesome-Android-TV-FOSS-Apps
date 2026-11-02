@@ -48,7 +48,7 @@
 - **Arc Launcher:** A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendly screensaver, and improved UX. [[Source](https://github.com/meddouribadis/arclauncher)]
 - **FLauncher (fork):** Alternative launcher for Android TV [[Source](https://github.com/osrosal/flauncher)]
 - **FLauncher:** Alternative launcher for Android TV [[Source](https://gitlab.com/flauncher/flauncher)] [[Google Play](https://play.google.com/store/apps/details?id=me.efesser.flauncher)]
-- **Gothwad:** Made for Android TVs and Tablets, simple looking with advanced features, launcher notifications, recents apps, ad free, suitable for all types of devices. [[Source](https://github.com/gothwadtech/launcher)]
+- **Gothwad:** Made for Android TVs and Tablets, simple looking with advanced features, launcher notifications, recents apps, ad free, suitable for all types of devices. [[Source](https://github.com/gothwadtech/launcher)] ✴️
 - **Home Deck:** A neon home screen for Android TV. Free, offline by default. [[Source](https://github.com/glidiandev/home-deck)] [[Website](https://glidian.dev/home-deck/)] ✴️
 - **KIDŌ:** A command-center home screen for Android TV. No ads, no internet access. [[Source](https://github.com/glidiandev/kido)] [[Website](https://glidian.dev/kido/)] ✴️
 - **Koolest TV:** A fast, ad-free home screen for Android TV and Google TV on any brand, in the look of Glass design, iOS style app. [[Source](https://github.com/KoolestTVLauncher/Koolest-TV-Launcher)] [[Website](https://koolesttvlauncher.github.io/)] ✴️
@@ -61,11 +61,11 @@
 ### Keyboard
 
 - **LeanKeyKeyboard:** Keyboard for Android-based set-top boxes and TV [[Source](https://github.com/yuliskov/LeanKeyKeyboard)] [[Google Play](https://play.google.com/store/apps/details?id=org.liskovsoft.androidtv.rukeyboard)]
-- **WM Keyboard:** A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem. [[Source](https://github.com/wasi-master/wmkeyboard)] [[Website](https://wmkeyboard.app/)] [[Google Play](https://play.google.com/store/apps/details?id=com.wasimaster.wmkeyboard)]
+- **WM Keyboard:** A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem. [[Source](https://github.com/wasi-master/wmkeyboard)] [[Website](https://wmkeyboard.app/)] [[Google Play](https://play.google.com/store/apps/details?id=com.wasimaster.wmkeyboard)] ✴️
 
 ### App Store
 
-- **Aurora Store:** An alternate to Google's Play Store [[Source](https://gitlab.com/AuroraOSS/AuroraStore)] [[Website](https://auroraoss.com/)] [[F-Droid](https://f-droid.org/en/packages/com.aurora.store/)] 🖱️
+- **Aurora Store:** An alternate to Google's Play Store [[Source](https://gitlab.com/AuroraOSS/AuroraStore)] [[Website](https://auroraoss.com/)] [[F-Droid](https://f-droid.org/en/packages/com.aurora.store/)] 🖱️ ✴️
 - **Droid-ify:** A quick material F-Droid client [[Source](https://github.com/Droid-ify/client)] [[F-Droid](https://f-droid.org/en/packages/com.looker.droidify/)] 🖱️
 - **F-Droid Classic:** F-Droid client with the classic UI [[Source](https://git.bubu1.eu/Bubu/fdroidclassic)] [[F-Droid](https://f-droid.org/en/packages/eu.bubu1.fdroidclassic/)] 📺 🖱️ 🛑
 - **Flicky:** An FDroid client with a TV friendly UI [[Source](https://github.com/mlm-games/flicky)] [[F-Droid](https://f-droid.org/en/packages/app.flicky/)]
@@ -74,15 +74,14 @@
 ### Web Browser
 
 - **DTVfree:** Simple, fast and lightweight Web browser for Android TV [[Source](https://github.com/InukaAsith/DTVfree)] 🛑
-- **Gothwad:** Ultimate Desktop-Grade Web Browser for Android TVs. [[Source](https://github.com/gothwadtech/browser)]
-- **mrowser:** A lightweight, open-source smart TV web browser built specifically for Android TV and the D-pad remote. Its point is streaming video from sites the TV has no app for. [[Source](https://github.com/m-salehi-v/mrowser)] [[Website](https://m-salehi-v.github.io/mrowser/)]
-- **TV Bro:** Simple web browser optimized to use with TV remote [[Source](https://github.com/truefedex/tv-bro)] [[Google Play](https://play.google.com/store/apps/details?id=com.phlox.tvwebbrowser)]
+- **Gothwad:** Ultimate Desktop-Grade Web Browser for Android TVs. [[Source](https://github.com/gothwadtech/browser)] ✴️
+- **mrowser:** A lightweight, open-source smart TV web browser built specifically for Android TV and the D-pad remote. Its point is streaming video from sites the TV has no app for. [[Source](https://github.com/m-salehi-v/mrowser)] [[Website](https://m-salehi-v.github.io/mrowser/)] ✴️
+- **TV Bro:** Simple web browser optimized to use with TV remote [[Source](https://github.com/truefedex/tv-bro)] [[Google Play](https://play.google.com/store/apps/details?id=com.phlox.tvwebbrowser)] ✴️
 
 ### Media Player
 
-- **Aperture:** A Material 3 Media Player for Android TV. [[Source](https://github.com/XDanfr/Aperture)]
-- **DreamPlayer:** Open-source video player for Android TV: Dolby Vision, HDR10+, DTS-HD/TrueHD audio, SMB/NAS + Jellyfin/WebDAV streaming, subtitles. GPLv3, Flutter + ExoPlayer/Media3 + AetherEngine. [[Source]((https://github.com/mangeshghodke/DreamPlayer))]
-
+- **Aperture:** A Material 3 Media Player for Android TV. [[Source](https://github.com/XDanfr/Aperture)] ✴️
+- **DreamPlayer:** Open-source video player for Android TV: Dolby Vision, HDR10+, DTS-HD/TrueHD audio, SMB/NAS + Jellyfin/WebDAV streaming, subtitles. GPLv3, Flutter + ExoPlayer/Media3 + AetherEngine. [[Source](https://github.com/mangeshghodke/DreamPlayer)] ✴️
 - **Fermata:** a free, open source audio, video and TV player with a simple and intuitive interface [[Source](https://github.com/AndreyPavlenko/Fermata)] [[Google Play](https://play.google.com/store/apps/details?id=me.aap.fermata)]
 - **Ghosten Player:** A video player for local or hosted Jellyfin/Emby servers [[Source](https://github.com/GhostenEditor/Ghosten-Player)]
 - **Just (Video) Player:** Simple video player based on ExoPlayer library [[Source](https://github.com/moneytoo/Player)] [[F-Droid](https://f-droid.org/packages/com.brouken.player/)] [[Google Play](https://play.google.com/store/apps/details?id=com.brouken.player)]
