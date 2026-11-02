@@ -129,6 +129,7 @@
 - **Lumora:** A fast, lightweight IPTV and personal-media client for Android, Android TV, Fire TV. [[Source](https://github.com/disclosurez/Lumora)]
 - **M3U:** Stream media player on Android devices. [[Source](https://github.com/realOxy/M3UAndroid)] [[F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3)]
 - **Megacubo:** Cross-platform IPTV player for Windows, Linux, macOS and Android with support for M3U playlists, live TV streams, bookmarks, history, miniplayer mode and community lists. [[Source](https://github.com/EdenwareApps/Megacubo)] [[Website](https://megacubo.tv)]
+- **Nimbus:** A fast, free and open-source IPTV player for Android TV and Fire TV: live TV with a full guide, catch-up, films and series. [[Source](https://github.com/lucasclgibson/nimbus)] ✴️
 - **OwnTV:** Your own IPTV player for Android TV. [[Source](https://github.com/ahXN00/OwnTV)]
 - **Prysm:** a modern, lightweight M3U IPTV player built with Expo / React. [[Source](https://github.com/dereferencex/prysm)]
 - **telly:** A beautiful, open-source live-TV experience for Android TV [[Source](https://github.com/johnpc/telly)]
