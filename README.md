@@ -49,6 +49,7 @@
 - **FLauncher (fork):** Alternative launcher for Android TV [[Source](https://github.com/osrosal/flauncher)]
 - **FLauncher:** Alternative launcher for Android TV [[Source](https://gitlab.com/flauncher/flauncher)] [[Google Play](https://play.google.com/store/apps/details?id=me.efesser.flauncher)]
 - **Gothwad:** Made for Android TVs and Tablets, simple looking with advanced features, launcher notifications, recents apps, ad free, suitable for all types of devices. [[Source](https://github.com/gothwadtech/launcher)]
+- **Home Deck:** A neon home screen for Android TV. Free, offline by default. [[Source](https://github.com/glidiandev/home-deck)] [[Website](https://glidian.dev/home-deck/)] ✴️
 - **Koolest TV:** A fast, ad-free home screen for Android TV and Google TV on any brand, in the look of Glass design, iOS style app. [[Source](https://github.com/KoolestTVLauncher/Koolest-TV-Launcher)] [[Website](https://koolesttvlauncher.github.io/)] ✴️
 - **LTvLauncher:** A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendly screensaver, and improved UX. [[Source](https://github.com/LeanBitLab/LtvLauncher)]
 - **LeanbackLauncher:** Google Leanback Launcher on steroids [[Source](https://github.com/tsynik/LeanbackLauncher)]
