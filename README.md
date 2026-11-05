@@ -54,6 +54,7 @@
 - **Koolest TV:** A fast, ad-free home screen for Android TV and Google TV on any brand, in the look of Glass design, iOS style app. [[Source](https://github.com/KoolestTVLauncher/Koolest-TV-Launcher)] [[Website](https://koolesttvlauncher.github.io/)] ✴️
 - **LTvLauncher:** A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendly screensaver, and improved UX. [[Source](https://github.com/LeanBitLab/LtvLauncher)]
 - **LeanbackLauncher:** Google Leanback Launcher on steroids [[Source](https://github.com/tsynik/LeanbackLauncher)]
+- **Luncher:** A zero-permission, lightweight and customizable Android TV launcher that starts instantly. [[Source](https://github.com/CVasilakis/luncher)] [[F-Droid](https://f-droid.org/packages/com.luncher.launcher/)] ✴️
 - **My Kids TV:** A calm, ad-free home screen for your child's TV, with only the films and shows worth their time. [[Source](https://github.com/suboss87/my-kids-tv)] ✴️
 - **ShackScreen:**  a free launcher dashboard that turns the TV or tablet in your shack into a live radio dashboard. [[Source](https://github.com/maxhayim/ShackScreen)] ✴️
 - **TV Home:** Simple launcher for Android TV / Google TV with widgets and a Control Center; set up from the TV Remote apps over ADB. [[Source](https://github.com/HoangTran0410/tv-remote)] [[Website](https://tvremote.pages.dev)] ✴️
