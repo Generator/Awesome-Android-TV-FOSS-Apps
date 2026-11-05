@@ -104,33 +104,31 @@
 - **PipeTv:** Fast, ad-free YouTube client for Android TV, Google TV and Fire TV with SponsorBlock, no account or Google services needed [[Source](https://github.com/LimitedIO/PipeTv)] [[Website](https://limitedio.github.io/PipeTv/)] ✴️
 - **SmartTube:** An advanced (YouTube) player for Android TVs and TV boxes [[Source](https://github.com/yuliskov/smarttube)] [[Website](https://smarttubeapp.github.io/)]
 - **TizenTube Cobalt:** Experience TizenTube on other devices that are not Tizen [[Source](https://github.com/reisxd/TizenTubeCobalt)]
-- **Tubular:** A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike [[Source](https://github.com/polymorphicshade/Tubular)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.tubular)]
 
 ### Streaming - Movies/TV/Anime
 
-- **ARVIO:** A media hub application for Android TV with a modern, beautiful interface. [[Source](https://github.com/ProdigyV21/ARVIO)] [[Website](https://arvio.tv/)] [[GooglePlay](https://play.google.com/store/apps/details?id=com.arvio.tv)]
+- **ARVIO:** A media hub application for Android TV with a modern, beautiful interface. [[Source](https://github.com/ProdigyV21/ARVIO)] [[Website](https://arvio.tv/)] [[GooglePlay](https://play.google.com/store/apps/details?id=com.arvio.tv)] ✴️
 - **CloudStream:** App for streaming and downloading media [[Source](https://github.com/recloudstream/cloudstream)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3)]
 - **Flixclusive:** A modern streaming service app that provides users with a convenient way to play and watch the latest movies and TV shows available on the internet. [[Source](https://github.com/rhenwinch/Flixclusive)]
-- **Illumera:** Android TV streaming app for Stremio addons. [[Source](https://github.com/HereLiesAz/illumera)]
+- **Illumera:** Android TV streaming app for Stremio addons. [[Source](https://github.com/HereLiesAz/illumera)] ✴️
 - **Lumera:** Browse, discover, and stream content from Stremio-compatible addons. Connect your Stremio account to instantly import your existing addon collection. [[Source](https://github.com/LumeraD3v/Lumera)]
 - **NuvioTV:** A modern Android TV media player powered by the Stremio addon ecosystem. [[Source](https://github.com/tapframe/NuvioTV)]
-- **Rivulet:** A media library and BitTorrent player for desktop and Android TV — embedded mpv, in-process torrent engine. [[Source](https://github.com/baigcoder/rivulet)]
-- **Streamflix Reborn:** An Android TV app to stream movies and TV shows for free [[Source](https://github.com/streamflix-reborn/streamflix)]
+- **Rivulet:** A media library and BitTorrent player for desktop and Android TV — embedded mpv, in-process torrent engine. [[Source](https://github.com/baigcoder/rivulet)] ✴️
 - **StreamTV:** A premium, TV-optimized Flutter application designed for Android and Android TV devices to stream movies and TV series. [[Source](https://github.com/kokosip/stream-tv)]
-- **Watchbox:** A native anime, movie and series client for Android phones, tablets and TV. [[Source](https://github.com/Nicartjay/Watchbox-Android)]
-- **Zangetsu:** Free, open-source app for anime, movies, series, manga and light novels [[Source](https://github.com/Spyou/Zangetsu)] [[Website](https://zangetsu.online/)]
+- **Watchbox:** A native anime, movie and series client for Android phones, tablets and TV. [[Source](https://github.com/Nicartjay/Watchbox-Android)] ✴️
+- **Zangetsu:** Free, open-source app for anime, movies, series, manga and light novels [[Source](https://github.com/Spyou/Zangetsu)] [[Website](https://zangetsu.online/)] ✴️
 
 ### Streaming - IPTV
 
-- **Airo:** AI chat, personal finance, TV & music, games, and reading in one. [[Source](https://github.com/DevelopersCoffee/airo)]
+- **Airo:** AI chat, personal finance, TV & music, games, and reading in one. [[Source](https://github.com/DevelopersCoffee/airo)] ✴️
 - **Digilog TV:** A free and open-source TV news app. [[Source](https://github.com/aldrinzigmundv/digilogtv)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/io.github.aldrinzigmundv.digilogtv/)] [[Google Play](https://play.google.com/store/apps/details?id=io.github.aldrinzigmundv.digilogtv)]
-- **EliteStocks TV:** Built for Android TV first, EliteStocks TV focuses on the things generic IPTV apps usually get wrong. [[Source](https://github.com/anuragrajpandey/StreamVault-IPTV)]
-- **Lumen:** A cinematic, cross-platform IPTV player for the legal Xtream or M3U service you already use. [[Source](https://github.com/Talha-Ashraf420/Lumen-App)]
-- **Lumora:** A fast, lightweight IPTV and personal-media client for Android, Android TV, Fire TV. [[Source](https://github.com/disclosurez/Lumora)]
-- **M3U:** Stream media player on Android devices. [[Source](https://github.com/realOxy/M3UAndroid)] [[F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3)]
+- **EliteStocks TV:** Built for Android TV first, EliteStocks TV focuses on the things generic IPTV apps usually get wrong. [[Source](https://github.com/anuragrajpandey/StreamVault-IPTV)] ✴️
+- **Lumen:** A cinematic, cross-platform IPTV player for the legal Xtream or M3U service you already use. [[Source](https://github.com/Talha-Ashraf420/Lumen-App)] ✴️
+- **Lumora:** A fast, lightweight IPTV and personal-media client for Android, Android TV, Fire TV. [[Source](https://github.com/disclosurez/Lumora)] ✴️
+- **M3U:** Stream media player on Android devices. [[Source](https://github.com/realOxy/M3UAndroid)] [[F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3)] 🛑
 - **Megacubo:** Cross-platform IPTV player for Windows, Linux, macOS and Android with support for M3U playlists, live TV streams, bookmarks, history, miniplayer mode and community lists. [[Source](https://github.com/EdenwareApps/Megacubo)] [[Website](https://megacubo.tv)]
 - **Nimbus:** A fast, free and open-source IPTV player for Android TV and Fire TV: live TV with a full guide, catch-up, films and series. [[Source](https://github.com/lucasclgibson/nimbus)] ✴️
-- **OwnTV:** Your own IPTV player for Android TV. [[Source](https://github.com/ahXN00/OwnTV)]
+- **OwnTV:** Your own IPTV player for Android TV. [[Source](https://github.com/ahXN00/OwnTV)] ✴️
 - **Prysm:** a modern, lightweight M3U IPTV player built with Expo / React. [[Source](https://github.com/dereferencex/prysm)]
 - **telly:** A beautiful, open-source live-TV experience for Android TV [[Source](https://github.com/johnpc/telly)]
 - **XPlayer:** A cross-platform IPTV / M3U player. [[Source](https://github.com/TNT-Likely/xplayer)] 📺
@@ -141,7 +139,7 @@
 - **DSub:** Connect to your Subsonic server and listen to your music wherever you go [[Source](https://github.com/daneren2005/Subsonic)] [[F-Droid](https://f-droid.org/en/packages/github.daneren2005.dsub)] [[Google Play](https://play.google.com/store/apps/details?id=github.daneren2005.dsub)] 🖱️
 - **Jellyfin:** A Free Software Media System that puts you in control of managing and streaming your media [[Source](https://github.com/jellyfin/jellyfin-androidtv)] [[Website](https://jellyfin.org/)] [[F-Droid](https://f-droid.org/en/packages/org.jellyfin.androidtv/)] [[Google Play](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv)]
   - **Jellyfin 3rd Party Clients:** [Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin/blob/main/CLIENTS.md#android-tv)
-- **Reelay:** Custom Plex client for Android TV. [[Source](https://github.com/Midge-dev/reelay)]
+- **Reelay:** Custom Plex client for Android TV. [[Source](https://github.com/Midge-dev/reelay)] ✴️
 
 ### Streaming - Twitch
 
@@ -163,8 +161,8 @@
 - **Ghost Commander:** Dual-panel file manager [[Source](https://sourceforge.net/p/ghostcommander)] [[Website](https://sites.google.com/site/ghostcommander1)] [[F-Droid](https://f-droid.org/en/packages/com.ghostsq.commander)] [[Google Play](https://play.google.com/store/apps/details?id=com.ghostsq.commander)]
 - **Material Files:** Material Design file manager for Android [[Source](https://github.com/zhanghai/MaterialFiles)] [[F-Droid](https://f-droid.org/packages/me.zhanghai.android.files)] [[Google Play](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)]
 - **Prism File Explorer:** A modern, feature-rich, and lightweight file manager for Android, built entirely with Kotlin and Jetpack Compose. [[Source](https://github.com/Raival-e/Prism-File-Explorer)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.raival.compose.file.explorer)] [[OpenAPK](https://www.openapk.net/file-explorer/com.raival.compose.file.explorer/)]  📺 🛑
-- **Ultimate File Manager Pro:** A powerful, dual-pane file manager for Android and Android TV, built for power users. [[Source](https://github.com/Kilowatch/ultimate-file-manager-pro)] [[Google Play](https://play.google.com/store/apps/details?id=za.kilowatch.ultimatefilemanager)]
-- **Voyager:** An open-source file manager for Android with built-in SFTP, FTP, SMB, and WebDAV access. [[Source](https://github.com/AlanHuang99/Voyager)] [[F-Droid](https://f-droid.org/packages/com.voyagerfiles/)] 📺
+- **Ultimate File Manager Pro:** A powerful, dual-pane file manager for Android and Android TV, built for power users. [[Source](https://github.com/Kilowatch/ultimate-file-manager-pro)] [[Google Play](https://play.google.com/store/apps/details?id=za.kilowatch.ultimatefilemanager)] ✴️
+- **Voyager:** An open-source file manager for Android with built-in SFTP, FTP, SMB, and WebDAV access. [[Source](https://github.com/AlanHuang99/Voyager)] [[F-Droid](https://f-droid.org/packages/com.voyagerfiles/)] 📺 ✴️
 
 ### Download Manager
 
