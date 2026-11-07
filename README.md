@@ -46,14 +46,15 @@
 ### Launcher
 
 - **Arc Launcher:** A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendly screensaver, and improved UX. [[Source](https://github.com/meddouribadis/arclauncher)]
-- **FLauncher (fork):** Alternative launcher for Android TV [[Source](https://github.com/osrosal/flauncher)]
-- **FLauncher:** Alternative launcher for Android TV [[Source](https://gitlab.com/flauncher/flauncher)] [[Google Play](https://play.google.com/store/apps/details?id=me.efesser.flauncher)]
+- **FLauncher (fork):** Alternative launcher for Android TV. [[Source](https://github.com/osrosal/flauncher)]
+- **FLauncher:** Alternative launcher for Android TV. [[Source](https://gitlab.com/flauncher/flauncher)] [[Google Play](https://play.google.com/store/apps/details?id=me.efesser.flauncher)]
 - **Gothwad:** Made for Android TVs and Tablets, simple looking with advanced features, launcher notifications, recents apps, ad free, suitable for all types of devices. [[Source](https://github.com/gothwadtech/launcher)] ✴️
 - **Home Deck:** A neon home screen for Android TV. Free, offline by default. [[Source](https://github.com/glidiandev/home-deck)] [[Website](https://glidian.dev/home-deck/)] ✴️
 - **KIDŌ:** A command-center home screen for Android TV. No ads, no internet access. [[Source](https://github.com/glidiandev/kido)] [[Website](https://glidian.dev/kido/)] ✴️
 - **Koolest TV:** A fast, ad-free home screen for Android TV and Google TV on any brand, in the look of Glass design, iOS style app. [[Source](https://github.com/KoolestTVLauncher/Koolest-TV-Launcher)] [[Website](https://koolesttvlauncher.github.io/)] ✴️
 - **LTvLauncher:** A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendly screensaver, and improved UX. [[Source](https://github.com/LeanBitLab/LtvLauncher)]
-- **LeanbackLauncher:** Google Leanback Launcher on steroids [[Source](https://github.com/tsynik/LeanbackLauncher)]
+- **LeanbackLauncher:** Google Leanback Launcher on steroids. [[Source](https://github.com/tsynik/LeanbackLauncher)]
+- **Lightning Launcher:** A lightning-fast app launcher designed for big screens. Fully compatible with Meta Quest & Android TV. [[Source](https://github.com/threethan/LightningLauncher)]
 - **Luncher:** A zero-permission, lightweight and customizable Android TV launcher that starts instantly. [[Source](https://github.com/CVasilakis/luncher)] [[F-Droid](https://f-droid.org/packages/com.luncher.launcher/)] ✴️
 - **My Kids TV:** A calm, ad-free home screen for your child's TV, with only the films and shows worth their time. [[Source](https://github.com/suboss87/my-kids-tv)] ✴️
 - **ShackScreen:**  a free launcher dashboard that turns the TV or tablet in your shack into a live radio dashboard. [[Source](https://github.com/maxhayim/ShackScreen)] ✴️
