@@ -168,15 +168,15 @@
 ### Download Manager
 
 - **BiglyBT:** Fully featured open source bittorrent client and remote control [[Source](https://github.com/BiglySoftware/BiglyBT-Android)] [[Website](https://www.biglybt.com/)] [[F-Droid](https://f-droid.org/packages/com.biglybt.android.client/)]
-- **Debrify:** Cross-platform debrid manager for Real-Debrid, Torbox, and PikPak with streaming and download support [[Source](https://github.com/varunsalian/debrify)] [[Website](https://varunsalian.github.io/debrify/)]
+- **Debrify:** Cross-platform debrid manager for Real-Debrid, Torbox, and PikPak with streaming and download support [[Source](https://github.com/varunsalian/debrify)] [[Website](https://varunsalian.github.io/debrify/)] ✴️
 - **Download Navi:** A free and Open Source download manager [[Source](https://github.com/TachibanaGeneralLaboratories/download-navi)] [[F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/)] [[Google play](https://play.google.com/store/apps/details?id=com.tachibana.downloader)]
 - **TorrServe:** Application for downloading torrents as HTTP files. Torrent connection is done localy. [[Source](https://github.com/YouROK/TorrServe)] [[F-Droid](https://f-droid.org/packages/ru.yourok.torrserve/)]
 
 ### Connectivity
 
-- **GTV Remote:** A modern, native macOS remote control & quick launcher for Google TV / Android TV. [[Source](https://github.com/badugisoft/gtv-remote)]
+- **GTV Remote:** A modern, native macOS remote control & quick launcher for Google TV / Android TV. [[Source](https://github.com/badugisoft/gtv-remote)] ✴️
 - **KDE Connect:** A multi-platform app that allows your devices to communicate with each other [[Source](https://invent.kde.org/network/kdeconnect-android)] [[Website](https://community.kde.org/KDEConnect)] [[F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp)] [[Google Play](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp)] 🚫📺
-- **LinkLoom:** A Android TV Application To Show Browsers, History, Save Web Pages Links, Share Links Between Android Mobile app and TV [[Source](https://github.com/Yazan98/LinkLoomTv)]
+- **LinkLoom:** A Android TV Application To Show Browsers, History, Save Web Pages Links, Share Links Between Android Mobile app and TV [[Source](https://github.com/Yazan98/LinkLoomTv)] 🛑
 - **LocalSend:** Allows you to securely share files and messages with nearby devices over your local network without needing an internet connection [[Source](https://github.com/localsend/localsend)] [[F-Droid](https://f-droid.org/packages/org.localsend.localsend_app)] [[Google Play](https://play.google.com/store/apps/details?id=org.localsend.localsend_app)]
 
 ### Remote
@@ -193,7 +193,7 @@
 ### Gallery
 
 - **Aves:** Gallery and metadata explorer [[Source](https://github.com/deckerst/aves)] [[F-Droid](https://f-droid.org/packages/deckers.thibault.aves.libre)] [[Google Play](https://play.google.com/store/apps/details?id=deckers.thibault.aves)]
-- **Immich Android TV:** An Android TV app for the self hosted photos and videos backup solution [[Source](https://github.com/giejay/Immich-Android-TV)]
+- **Immich Android TV:** An Android TV app for the self hosted photos and videos backup solution [[Source](https://github.com/giejay/Immich-Android-TV)] ✴️
 
 ### Notifications
 
@@ -201,8 +201,8 @@
 
 ### Screen Saver
 
-- **Aerial Views:** A screen saver for Android TV [[Source](https://github.com/theothernt/AerialViews)] [[Google Play](https://play.google.com/store/apps/details?id=com.neilturner.aerialviews)]
-- **Nebula:** Space nebula fly-through screensaver for Android TV. [[Source](https://github.com/jordanade/Nebula)]
+- **Aerial Views:** A screen saver for Android TV [[Source](https://github.com/theothernt/AerialViews)] [[Google Play](https://play.google.com/store/apps/details?id=com.neilturner.aerialviews)] ✴️
+- **Nebula:** Space nebula fly-through screensaver for Android TV. [[Source](https://github.com/jordanade/Nebula)] ✴️
 - **OpenVista:** An open-source ambient video experience for Android TV, Google TV, and Fire TV. Your screen, your scenery. [[Source](https://github.com/murilaiooo/openvista)] ✴️
 
 ### DNS Proxy
@@ -217,26 +217,25 @@
 - **Proton VPN:** Free Swiss VPN with advanced security and privacy features. [[Source](https://github.com/ProtonVPN/android-app)] [[Website](https://protonvpn.com/)] [[F-Droid](https://f-droid.org/en/packages/ch.protonvpn.android/)] [[Google Play](https://play.google.com/store/apps/details?id=ch.protonvpn.android)]
 - **Shadowsocks:** A shadowsocks client for Android TV. Shadowsocks is a fast tunnel proxy that helps you bypass firewalls. [[Source](https://github.com/shadowsocks/shadowsocks-android)] [[Website](https://shadowsocks.org/)] [[F-Droid](https://f-droid.org/en/packages/com.github.shadowsocks.tv/)] [[Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks.tv)]
 - **Tailscale:** Mesh VPN based on WireGuard [[Source](https://github.com/tailscale/tailscale-android)] [[F-Droid](https://f-droid.org/en/packages/com.tailscale.ipn/)] [[Google Play](https://play.google.com/store/apps/details?id=com.tailscale.ipn)] [[Website](https://tailscale.com/)]
-- **Windscribe:** Free VPN that unblocks geo-restricted content and eliminates tracking. [[Source](https://github.com/Windscribe/Android-App)] [[Website](https://windscribe.com/)] [[F-Droid](https://f-droid.org/en/packages/com.windscribe.vpn/)] [[Google Play](https://play.google.com/store/apps/details?id=com.windscribe.vpn)]
+- **Windscribe:** Free VPN that unblocks geo-restricted content and eliminates tracking. [[Source](https://github.com/Windscribe/Android-App)] [[Website](https://windscribe.com/)] [[F-Droid](https://f-droid.org/en/packages/com.windscribe.vpn/)] [[Google Play](https://play.google.com/store/apps/details?id=com.windscribe.vpn)] ✴️
 
 ### Capturing
 
-- **Recording Webcam:** Camera App for android TV [[Source](https://github.com/ChunhThanhDe/Recording-Webcam)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.box.project.recording_app)]
+- **Recording Webcam:** Camera App for android TV [[Source](https://github.com/ChunhThanhDe/Recording-Webcam)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.box.project.recording_app)] 🛑
 
 ### System Utilities
 
 - **APKUpdater:** An open source tool that simplifies the process of finding updates for your installed apps. [[Source](https://github.com/rumboalla/apkupdater)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.apkupdater)]
 - **App Manager:** A full-featured open source package manager for android [[Source](https://github.com/MuntashirAkon/AppManager)] [[F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager)] 🤖🖱️
-- **CPU Info:** a KMP application which provides information about device hardware and software [[Source](https://github.com/kamgurgul/cpu-info)] [[F-Droid](https://f-droid.org/packages/com.kgurgul.cpuinfo/)] [[Google Play](https://play.google.com/store/apps/details?id=com.kgurgul.cpuinfo)]
-- **DAVx⁵:** A CalDAV/CardDAV (and webdav provider) management and synchronization app for Android which natively integrates with Android calendar/contact apps. [[Source](https://github.com/bitfireAT/davx5-ose/)] [[F-Droid](https://f-droid.org/en/packages/at.bitfire.davdroid/)] [[Google Play](https://play.google.com/store/apps/details?id=at.bitfire.davdroid)] 💰 [[Website](https://www.davx5.com/)]
+- **CPU Info:** a KMP application which provides information about device hardware and software [[Source](https://github.com/kamgurgul/cpu-info)] [[F-Droid](https://f-droid.org/packages/com.kgurgul.cpuinfo/)] [[Google Play](https://play.google.com/store/apps/details?id=com.kgurgul.cpuinfo)] ✴️
+- **DAVx⁵:** A CalDAV/CardDAV (and webdav provider) management and synchronization app for Android which natively integrates with Android calendar/contact apps. [[Source](https://github.com/bitfireAT/davx5-ose/)] [[F-Droid](https://f-droid.org/en/packages/at.bitfire.davdroid/)] [[Google Play](https://play.google.com/store/apps/details?id=at.bitfire.davdroid)] 💰 [[Website](https://www.davx5.com/)] ✴️
 - **Dock:** An ambient TV dashboard for Android TV — clock, calendar, Spotify, AirPlay, WireGuard VPN. [[Source](https://github.com/the-mrinal/Dock)] [[Website](https://dock.mrinal.dev/)] ✴️
-- **HomeKey TV:** Fast, lightweight quick-access dock and remote button remapper for Google TV and Android TV, seamlessly integrated with Home Assistant. [[Source](https://github.com/leonida92/HomeKeyTV)]
-- **Key Mapper:** An Android app that change what the buttons do on your devices [[Source](https://github.com/keymapperorg/KeyMapper)] [[Website](http://docs.keymapper.club/)] [[F-Droid](https://f-droid.org/packages/io.github.sds100.keymapper/)] [[Google Play](https://play.google.com/store/apps/details?id=io.github.sds100.keymapper)] 🚫
-- **Launch-On-Boot:** Launches a TV app when the device boots [[Source](https://github.com/ITVlab/Launch-On-Boot)] [[F-Droid](https://f-droid.org/packages/news.androidtv.launchonboot/)] [[Google Play](https://play.google.com/store/apps/details?id=news.androidtv.launchonboot)]
+- **HomeKey TV:** Fast, lightweight quick-access dock and remote button remapper for Google TV and Android TV, seamlessly integrated with Home Assistant. [[Source](https://github.com/leonida92/HomeKeyTV)] ✴️
+- **Key Mapper:** An Android app that change what the buttons do on your devices [[Source](https://github.com/keymapperorg/KeyMapper)] [[Website](http://docs.keymapper.club/)] [[F-Droid](https://f-droid.org/packages/io.github.sds100.keymapper/)] [[Google Play](https://play.google.com/store/apps/details?id=io.github.sds100.keymapper)] 🚫 ✴️
+- **Launch-On-Boot:** Launches a TV app when the device boots [[Source](https://github.com/ITVlab/Launch-On-Boot)] [[F-Droid](https://f-droid.org/packages/news.androidtv.launchonboot/)] [[Google Play](https://play.google.com/store/apps/details?id=news.androidtv.launchonboot)] 🛑
 - **Neo Backup:** open-source tool to backup your apps and data [[Source](https://github.com/NeoApplications/Neo-Backup)] [[F-Droid](https://f-droid.org/packages/com.machiav3lli.backup/)] 🤖
 - **NetGuard:** A simple way to block access to the internet per application [[Source](https://github.com/M66B/NetGuard)] [[F-Droid](https://f-droid.org/en/packages/eu.faircode.netguard/)] [[Google Play](https://play.google.com/store/apps/details?id=eu.faircode.netguard)] [[Website](https://netguard.me/)] 📺
-- **Quick Settings:** Quick Settings provides quick access to various Android system settings [[Source](https://f-droid.org/repo/com.bwx.bequick_201107260_src.tar.gz)] [[F-Droid](https://f-droid.org/en/packages/com.bwx.bequick/)] 📺 🛑⚠️
-- **SD Maid SE:** Android's most thorough cleaning tool. [[Source](https://github.com/d4rken-org/sdmaid-se)] [[F-Droid](https://f-droid.org/en/packages/eu.darken.sdmse/)] [[Google Play](https://play.google.com/store/apps/details?id=eu.darken.sdmse)] 📺
+- **SD Maid SE:** Android's most thorough cleaning tool. [[Source](https://github.com/d4rken-org/sdmaid-se)] [[F-Droid](https://f-droid.org/en/packages/eu.darken.sdmse/)] [[Google Play](https://play.google.com/store/apps/details?id=eu.darken.sdmse)] 📺 ✴️
 - **Shizuku:** Using system APIs directly with adb/root privileges from normal apps [[Source](https://github.com/RikkaApps/Shizuku)] [[Website](https://shizuku.rikka.app/)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.shizuku.privileged.api)] [[Google Play](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)] 🚫
 - **Termux:** A free and open source cross-platform terminal emulator and IDE [[Source](https://github.com/termux/termux-app)] [[F-Droid](https://f-droid.org/en/packages/com.termux)] 🖱️
 - **TV Box Tools:** a launcher manager and ADB toolbox for Android TV and Google TV boxes. [[Source](https://github.com/smartago/tvboxtools)] [[Website](https://tvboxtools.com/)] ✴️
