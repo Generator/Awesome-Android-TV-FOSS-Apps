@@ -57,6 +57,7 @@
 - **LeanbackLauncher:** Google Leanback Launcher on steroids. [[Source](https://github.com/tsynik/LeanbackLauncher)]
 - **Lightning Launcher:** A lightning-fast app launcher designed for big screens. Fully compatible with Meta Quest & Android TV. [[Source](https://github.com/threethan/LightningLauncher)]
 - **Luncher:** A zero-permission, lightweight and customizable Android TV launcher that starts instantly. [[Source](https://github.com/CVasilakis/luncher)] [[F-Droid](https://f-droid.org/packages/com.luncher.launcher/)] ✴️
+- **Luxury TV:** A quiet, luxurious home screen and gold & silver clock screensaver for Android TV and Google TV. [[Source](https://github.com/esamyo/luxury-tv)] ✴️
 - **My Kids TV:** A calm, ad-free home screen for your child's TV, with only the films and shows worth their time. [[Source](https://github.com/suboss87/my-kids-tv)] ✴️
 - **ShackScreen:**  a free launcher dashboard that turns the TV or tablet in your shack into a live radio dashboard. [[Source](https://github.com/maxhayim/ShackScreen)] ✴️
 - **TV Home:** Simple launcher for Android TV / Google TV with widgets and a Control Center; set up from the TV Remote apps over ADB. [[Source](https://github.com/HoangTran0410/tv-remote)] [[Website](https://tvremote.pages.dev)] ✴️
