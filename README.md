@@ -229,6 +229,7 @@
 
 - **APKUpdater:** An open source tool that simplifies the process of finding updates for your installed apps. [[Source](https://github.com/rumboalla/apkupdater)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.apkupdater)]
 - **App Manager:** A full-featured open source package manager for android [[Source](https://github.com/MuntashirAkon/AppManager)] [[F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager)] 🤖🖱️
+- **blck:** Turns off the screen, keeps the sound playing. [[Source](https://github.com/dpadninja/blck)] ✴️
 - **CPU Info:** a KMP application which provides information about device hardware and software [[Source](https://github.com/kamgurgul/cpu-info)] [[F-Droid](https://f-droid.org/packages/com.kgurgul.cpuinfo/)] [[Google Play](https://play.google.com/store/apps/details?id=com.kgurgul.cpuinfo)] ✴️
 - **DAVx⁵:** A CalDAV/CardDAV (and webdav provider) management and synchronization app for Android which natively integrates with Android calendar/contact apps. [[Source](https://github.com/bitfireAT/davx5-ose/)] [[F-Droid](https://f-droid.org/en/packages/at.bitfire.davdroid/)] [[Google Play](https://play.google.com/store/apps/details?id=at.bitfire.davdroid)] 💰 [[Website](https://www.davx5.com/)] ✴️
 - **Dock:** An ambient TV dashboard for Android TV — clock, calendar, Spotify, AirPlay, WireGuard VPN. [[Source](https://github.com/the-mrinal/Dock)] [[Website](https://dock.mrinal.dev/)] ✴️
