@@ -37,6 +37,7 @@
   - [DNS Proxy](#dns-proxy)
   - [Capturing](#capturing)
   - [System Utilities](#system-utilities)
+  - [Debloat](#Debloat)
 - [Contributing](#contributing)
 - [More Awesome Lists](#more-awesome-lists)
 - [License](#license)
@@ -46,6 +47,7 @@
 ### Launcher
 
 - **Arc Launcher:** A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendly screensaver, and improved UX. [[Source](https://github.com/meddouribadis/arclauncher)]
+- **Aura TV:** A fast, glass-clear home screen for Android TV: frosted glass over living photographs, 60 fps on a 1.5 GB TV. [[Source](https://github.com/cookedzera/aura-tv)]
 - **FLauncher (fork):** Alternative launcher for Android TV. [[Source](https://github.com/osrosal/flauncher)]
 - **FLauncher:** Alternative launcher for Android TV. [[Source](https://gitlab.com/flauncher/flauncher)] [[Google Play](https://play.google.com/store/apps/details?id=me.efesser.flauncher)]
 - **Gothwad:** Made for Android TVs and Tablets, simple looking with advanced features, launcher notifications, recents apps, ad free, suitable for all types of devices. [[Source](https://github.com/gothwadtech/launcher)] ✴️
@@ -74,6 +76,7 @@
 - **F-Droid Classic:** F-Droid client with the classic UI [[Source](https://git.bubu1.eu/Bubu/fdroidclassic)] [[F-Droid](https://f-droid.org/en/packages/eu.bubu1.fdroidclassic/)] 📺 🖱️ 🛑
 - **Flicky:** An FDroid client with a TV friendly UI [[Source](https://github.com/mlm-games/flicky)] [[F-Droid](https://f-droid.org/en/packages/app.flicky/)]
 - **Neo Store:** The modern and feature-rich F-Droid client for everyone! [[Source](https://github.com/NeoApplications/Neo-Store)] [[F-Droid](https://f-droid.org/packages/com.machiav3lli.fdroid)] 🖱️
+- **Orion Store:** The app store with nothing to hide. [[Source](https://github.com/RookieEnough/Orion-Store)] [[Website](https://orionstore.pages.dev/)]
 
 ### Web Browser
 
@@ -244,6 +247,16 @@
 - **Termux:** A free and open source cross-platform terminal emulator and IDE [[Source](https://github.com/termux/termux-app)] [[F-Droid](https://f-droid.org/en/packages/com.termux)] 🖱️
 - **TV Box Tools:** a launcher manager and ADB toolbox for Android TV and Google TV boxes. [[Source](https://github.com/smartago/tvboxtools)] [[Website](https://tvboxtools.com/)] ✴️
 - **WebDAV Provider:** An Android app that can expose WebDAV through Android's Storage Access Framework (SAF). [[Source](https://github.com/alexbakker/webdav-provider)] [[Google Play](https://play.google.com/store/apps/details?id=dev.rocli.android.webdav)] 💰 📺
+
+### Debloat
+
+- **Android TV Makeover:** Debloat an Android TV, replace its home screen with a clean Apple TV style launcher, and add a fast Indian live TV app. [[Source](https://github.com/kulwantnagi/android-tv-makeover)]
+- **Android TV Toolkit:** Cross-platform toolkit to debloat, install APKs, and customize Android TV devices. [[Source](https://github.com/seun-novodev/android-tv-debloat-toolkit)] ✴️
+- **CleaYourTV App:** A community-built phone app for Clean Your TV: clean up an Android TV from your phone. No laptop, no coding agent, nothing uninstalled. [[Source](https://github.com/udhaykumarbala/cleanyourtv-app)] ✴️
+- **CleaYourTV:** Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. [[Source](https://github.com/Gathin23/cleanyourtv)] [[Website](https://cleanyour.tv/)] ✴️
+- **CleanMyTV:** Remove ads and bloat from Android TV and Google TV. Free Mac, Windows and Linux app with an ad-free launcher you can set up from your computer or the TV. [[Source](https://github.com/wingedpanther/cleanmytv)]
+- **Tellyscope:** Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. no root, no PC. [[Source](https://github.com/man15h/tellyscope)] [[Website](https://man15h.github.io/tellyscope/)] ✴️
+- **TidyTV:** Free, open-source phone app that cleans up your Android TV: turns off ads, trackers and bloat in a few taps. [[Source](https://github.com/jolan94/tidytv)] [[Website](https://tidytv.winkle.dev/)] [[GooglePlay](https://play.google.com/store/apps/details?id=com.appfactory.tidytv)] ✴️
 
 ## Contributing
 
