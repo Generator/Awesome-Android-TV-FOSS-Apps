@@ -22,7 +22,8 @@
   - [Media Player](#media-player)
   - [Music Player](#music-player)
   - [Streaming - YouTube](#streaming---youtube)
-  - [Streaming - Movies/TV/Anime](#streaming---moviestvanime)
+  - [Streaming - Movies/TV](#streaming---moviestv)
+  - [Streaming - Anime/Asian Drama/Manga](#streaming---animeasian-dramamanga)
   - [Streaming - IPTV](#streaming---iptv)
   - [Streaming - Self-hosted](#streaming---self-hosted)
   - [Streaming - Twitch](#streaming---twitch)
@@ -112,7 +113,7 @@
 - **SmartTube:** An advanced (YouTube) player for Android TVs and TV boxes [[Source](https://github.com/yuliskov/smarttube)] [[Website](https://smarttubeapp.github.io/)]
 - **TizenTube Cobalt:** Experience TizenTube on other devices that are not Tizen [[Source](https://github.com/reisxd/TizenTubeCobalt)]
 
-### Streaming - Movies/TV/Anime
+### Streaming - Movies/TV
 
 - **ARVIO:** A media hub application for Android TV with a modern, beautiful interface. [[Source](https://github.com/ProdigyV21/ARVIO)] [[Website](https://arvio.tv/)] [[GooglePlay](https://play.google.com/store/apps/details?id=com.arvio.tv)] ✴️
 - **CloudStream:** App for streaming and downloading media [[Source](https://github.com/recloudstream/cloudstream)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3)]
@@ -122,6 +123,11 @@
 - **NuvioTV:** A modern Android TV media player powered by the Stremio addon ecosystem. [[Source](https://github.com/tapframe/NuvioTV)]
 - **Rivulet:** A media library and BitTorrent player for desktop and Android TV — embedded mpv, in-process torrent engine. [[Source](https://github.com/baigcoder/rivulet)] ✴️
 - **StreamTV:** A premium, TV-optimized Flutter application designed for Android and Android TV devices to stream movies and TV series. [[Source](https://github.com/kokosip/stream-tv)]
+
+### Streaming - Anime/Asian Drama/Manga
+
+- **Dartotsu:** one app to track and manage your anime, manga and novel lists. [[Source](https://github.com/aayush2622/Dartotsu)] ✴️
+- **NyanTV:** rack your anime, shows & movie progress across AniList, MyAnimeList and Simkl, beautifully and effortlessly, on any Android TV device. [[Source](https://gitlab.com/NyanTV/NyanTV)] [[Website](https://nyantv.vercel.app)]
 - **Watchbox:** A native anime, movie and series client for Android phones, tablets and TV. [[Source](https://github.com/Nicartjay/Watchbox-Android)] ✴️
 - **Zangetsu:** Free, open-source app for anime, movies, series, manga and light novels [[Source](https://github.com/Spyou/Zangetsu)] [[Website](https://zangetsu.online/)] ✴️
 
