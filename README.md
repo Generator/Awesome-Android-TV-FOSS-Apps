@@ -144,6 +144,7 @@
 - **OwnTV:** Your own IPTV player for Android TV. [[Source](https://github.com/ahXN00/OwnTV)] ✴️
 - **Prysm:** a modern, lightweight M3U IPTV player built with Expo / React. [[Source](https://github.com/dereferencex/prysm)]
 - **telly:** A beautiful, open-source live-TV experience for Android TV [[Source](https://github.com/johnpc/telly)]
+- **Tiviate:** A free, open-source IPTV player for Android TV, Fire TV, phones and tablets, with M3U, Xtream Codes, a full TV guide and 40 languages; bring your own subscription. [[Source](https://github.com/Amitk2108/tiviate)] [[Website](https://amitk2108.github.io/tiviate/)] ✴️
 - **XPlayer:** A cross-platform IPTV / M3U player. [[Source](https://github.com/TNT-Likely/xplayer)] 📺
 
 ### Streaming - Self-hosted
