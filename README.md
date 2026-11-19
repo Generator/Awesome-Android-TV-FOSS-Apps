@@ -68,6 +68,7 @@
 ### Keyboard
 
 - **LeanKeyKeyboard:** Keyboard for Android-based set-top boxes and TV [[Source](https://github.com/yuliskov/LeanKeyKeyboard)] [[Google Play](https://play.google.com/store/apps/details?id=org.liskovsoft.androidtv.rukeyboard)]
+- **Simple Keyboard TV:** A small on-screen keyboard for Android TV that you drive with the remote's D-pad. [[Source](https://github.com/deferino/SimpleKeyboardTV)] ✴️
 - **WM Keyboard:** A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem. [[Source](https://github.com/wasi-master/wmkeyboard)] [[Website](https://wmkeyboard.app/)] [[Google Play](https://play.google.com/store/apps/details?id=com.wasimaster.wmkeyboard)] ✴️
 
 ### App Store
