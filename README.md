@@ -59,6 +59,7 @@
 - **LTvLauncher:** A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendly screensaver, and improved UX. [[Source](https://github.com/LeanBitLab/LtvLauncher)]
 - **LeanbackLauncher:** Google Leanback Launcher on steroids. [[Source](https://github.com/tsynik/LeanbackLauncher)]
 - **Lightning Launcher:** A lightning-fast app launcher designed for big screens. Fully compatible with Meta Quest & Android TV. [[Source](https://github.com/threethan/LightningLauncher)]
+- **Lounge:** Ad-free launcher for Android TV and Google TV built around what you're watching: one Continue watching row across your apps and media server, live TV with a guide, a phone remote, and plugins for Jellyfin, Plex, Kodi, IPTV and more. [[Source](https://github.com/Gingerbreadfork/lounge)] ✴️
 - **Luncher:** A zero-permission, lightweight and customizable Android TV launcher that starts instantly. [[Source](https://github.com/CVasilakis/luncher)] [[F-Droid](https://f-droid.org/packages/com.luncher.launcher/)] ✴️
 - **Luxury TV:** A quiet, luxurious home screen and gold & silver clock screensaver for Android TV and Google TV. [[Source](https://github.com/esamyo/luxury-tv)] ✴️
 - **My Kids TV:** A calm, ad-free home screen for your child's TV, with only the films and shows worth their time. [[Source](https://github.com/suboss87/my-kids-tv)] ✴️
