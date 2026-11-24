@@ -136,6 +136,7 @@
 ### Streaming - IPTV
 
 - **Airo:** AI chat, personal finance, TV & music, games, and reading in one. [[Source](https://github.com/DevelopersCoffee/airo)] ✴️
+- **Cyberstream:** A free, open-source IPTV player for Android TV and phones with a Rust/WebAssembly core: M3U, Xtream Codes, XMLTV guide, live pause, catch-up, TMDB and Trakt, plus free French replay (ARTE, france.tv); bring your own subscription. [[Source](https://github.com/pickywawa/cyberstream)] [[Website](https://pickywawa.github.io/cyberstream/)] ✴️
 - **Digilog TV:** A free and open-source TV news app. [[Source](https://github.com/aldrinzigmundv/digilogtv)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/io.github.aldrinzigmundv.digilogtv/)] [[Google Play](https://play.google.com/store/apps/details?id=io.github.aldrinzigmundv.digilogtv)]
 - **EliteStocks TV:** Built for Android TV first, EliteStocks TV focuses on the things generic IPTV apps usually get wrong. [[Source](https://github.com/anuragrajpandey/StreamVault-IPTV)] ✴️
 - **Lumen:** A cinematic, cross-platform IPTV player for the legal Xtream or M3U service you already use. [[Source](https://github.com/Talha-Ashraf420/Lumen-App)] ✴️
